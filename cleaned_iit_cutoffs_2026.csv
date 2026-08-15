@@ -1,0 +1,752 @@
+Institute,Branch,Opening_Rank,Closing_Rank,Gender
+IIT/Bombay,CSE         (4110),88.0,280.0,Female
+IIT/Delhi,CSE         (4110),307.0,375.0,Female
+IIT/Kharagpur,CSE         (4110),391.0,733.0,Female
+IIT/Madras,CSE         (4110),102.0,287.0,Female
+IIT/Kanpur,CSE         (4110),479.0,666.0,Female
+IIT/Roorkee,CSE         (4110),782.0,1003.0,Female
+IIT/Guwahati,CSE         (4110),1053.0,1183.0,Female
+IIT/Hyderabad,CSE         (4110),493.0,660.0,Female
+IIT/BHU Varanasi,CSE         (4110),1204.0,1857.0,Female
+IIT/Ropar,CSE         (4110),2331.0,3540.0,Female
+IIT/Indore,CSE         (4110),1873.0,2285.0,Female
+IIT/ISM Dhanbad,CSE         (4110),2372.0,3440.0,Female
+IIT/Gandhinagar,CSE         (4110),2354.0,2700.0,Female
+IIT/Patna,CSE         (4110),3010.0,3592.0,Female
+IIT/Jodhpur,CSE         (4110),3621.0,3880.0,Female
+IIT/Mandi,CSE         (4110),2975.0,3809.0,Female
+IIT/ Bhubneshwar,CSE         (4110),2762.0,3481.0,Female
+IIT/Tirupati,CSE         (4110),2687.0,3403.0,Female
+IIT/Jammu,CSE         (4110),4770.0,5333.0,Female
+IIT/Goa,CSE         (4110),4558.0,4786.0,Female
+IIT/Bhilai,CSE         (4110),4762.0,4911.0,Female
+IIT/Palakkad,CSE         (4110),4334.0,4804.0,Female
+IIT/Dharwad,CSE         (4110),4855.0,5296.0,Female
+Inst. Name/ No.,CSE         (4110),,,Female
+IIT/Guwahati,CSE         (4110),2715.0,2820.0,Female
+Inst. Name/ No.,CSE         (4110),,,Female
+IIT/Hyderabad,CSE         (4110),1945.0,2248.0,Female
+Inst. Name/ No.,CSE         (4110),,,Female
+IIT/Bombay,CSE         (4110),1986.0,2608.0,Female
+IIT/Kharagpur,CSE         (4110),,,Female
+Inst. Name/ No.,CSE         (4110),,,Female
+IIT/Delhi,CSE         (4110),5532.0,5611.0,Female
+IIT/Gandhinagar,CSE         (4110),8304.0,8918.0,Female
+IIT/Jodhpur,CSE         (4110),9554.0,10038.0,Female
+IIT/Jammu,CSE         (4110),10758.0,11051.0,Female
+Inst. Name/ No.,CSE         (4110),,,Female
+IIT/Madras,AI & DA         (412L),401.0,474.0,Female
+Inst. Name/ No.,AI & DA         (412L),,,Female
+IIT/Patna,AI & DA         (412L),5483.0,6237.0,Female
+IIT/Dharwad,AI & DA         (412L),6791.0,7627.0,Female
+Inst. Name/ No.,AI & DA         (412L),,,Female
+IIT/Hyderabad,AI & DA         (412L),1779.0,1881.0,Female
+IIT/Gandhinagar,AI & DA         (412L),5355.0,5865.0,Female
+Inst. Name/ No.,AI & DA         (412L),,,Female
+IIT/Bombay,AI & DA         (412L),7623.0,7860.0,Female
+IIT/Delhi,AI & DA         (412L),8487.0,9163.0,Female
+IIT/Kharagpur,AI & DA         (412L),9759.0,9932.0,Female
+IIT/Kanpur,AI & DA         (412L),8327.0,9266.0,Female
+IIT/ISM Dhanbad,AI & DA         (412L),8817.0,10045.0,Female
+Inst. Name/ No.,AI & DA         (412L),,,Female
+IIT/Delhi,AI & DA         (412L),5659.0,6765.0,Female
+IIT/BHU Varanasi,AI & DA         (412L),10030.0,10781.0,Female
+Inst. Name/ No.,AI & DA         (412L),,,Female
+IIT/Patna,AI & DA         (412L),,,Female
+IIT/Delhi,Maths & Compu Tech (4124),661.0,956.0,Female
+IIT/Guwahati,Maths & Compu Tech (4124),1523.0,2152.0,Female
+IIT/BHU Varanasi,Maths & Compu Tech (4124),2145.0,2505.0,Female
+IIT/Ropar,Maths & Compu Tech (4124),3870.0,4600.0,Female
+IIT/Indore,Maths & Compu Tech (4124),2348.0,2513.0,Female
+IIT/ISM Dhanbad,Maths & Compu Tech (4124),3546.0,4428.0,Female
+IIT/Patna,Maths & Compu Tech (4124),4516.0,4760.0,Female
+IIT/ Bhubneshwar,Maths & Compu Tech (4124),4264.0,4264.0,Female
+IIT/Jammu,Maths & Compu Tech (4124),5440.0,6550.0,Female
+IIT/Goa,Maths & Compu Tech (4124),5176.0,6344.0,Female
+IIT/Dharwad,Maths & Compu Tech (4124),5539.0,5733.0,Female
+IISc./Banglore,Maths & Compu Tech (4124),730.0,1067.0,Female
+Inst. Name/ No.,Maths & Compu Tech (4124),,,Female
+IIT/Bombay,Maths & Compu Tech (4124),1147.0,1651.0,Female
+Inst. Name/ No.,Maths & Compu Tech (4124),,,Female
+IIT/Kanpur,Maths & Compu Tech (4124),6164.0,7195.0,Female
+IIT/BHU Varanasi,Maths & Compu Tech (4124),7990.0,8236.0,Female
+IIT/Mandi,Maths & Compu Tech (4124),9281.0,10058.0,Female
+IIT/Palakkad,Maths & Compu Tech (4124),10656.0,10785.0,Female
+IISc./Banglore,Maths & Compu Tech (4124),4231.0,4231.0,Female
+Inst. Name/ No.,Maths & Compu Tech (4124),,,Female
+IIT/Bombay,Maths & Compu Tech (4124),3029.0,3840.0,Female
+IIT/Delhi,Maths & Compu Tech (4124),3036.0,4968.0,Female
+IIT/Madras,Maths & Compu Tech (4124),2951.0,3015.0,Female
+IIT/Roorkee,Maths & Compu Tech (4124),5878.0,6664.0,Female
+IIT/Guwahati,Maths & Compu Tech (4124),6975.0,6595.0,Female
+IIT/Hyderabad,Maths & Compu Tech (4124),3722.0,3722.0,Female
+IIT/BHU Varanasi,Maths & Compu Tech (4124),6515.0,7552.0,Female
+IIT/Ropar,Maths & Compu Tech (4124),8350.0,8350.0,Female
+IIT/Indore,Maths & Compu Tech (4124),8044.0,8044.0,Female
+IIT/ISM Dhanbad,Maths & Compu Tech (4124),8318.0,8427.0,Female
+IIT/Patna,Maths & Compu Tech (4124),9220.0,9767.0,Female
+IIT/Mandi,Maths & Compu Tech (4124),9790.0,10363.0,Female
+IIT/ Bhubneshwar,Maths & Compu Tech (4124),8625.0,8625.0,Female
+IIT/Tirupati,Maths & Compu Tech (4124),8725.0,8725.0,Female
+IIT/Jammu,Maths & Compu Tech (4124),11046.0,11136.0,Female
+IIT/Dharwad,Maths & Compu Tech (4124),9282.0,9521.0,Female
+Inst. Name/ No.,Maths & Compu Tech (4124),,,Female
+IIT/Delhi,Maths & Compu Tech (4124),5238.0,5238.0,Female
+Inst. Name/ No.,Maths & Compu Tech (4124),,,Female
+IIT/Patna,Maths & Compu Tech (4124),10305.0,10305.0,Female
+IIT/Kharagpur,AI                   (4185),806.0,1195.0,Female
+IIT/Hyderabad,AI                   (4185),858.0,898.0,Female
+IIT/Gandhinagar,AI                   (4185),2759.0,2873.0,Female
+Inst. Name/ No.,AI                   (4185),,,Female
+IIT/BHU Varanasi,AI                   (4185),2725.0,3018.0,Female
+IIT/Jodhpur,AI                   (4185),5142.0,6587.0,Female
+Inst. Name/ No.,AI                   (4185),,,Female
+IIT/Mandi,AI                   (4185),4022.0,4295.0,Female
+IIT/Dharwad,AI                   (4185),9768.0,9768.0,Female
+Inst. Name/ No.,AI                   (4185),,,Female
+IIT/Bombay,AI                   (4185),3417.0,4498.0,Female
+IIT/Indore,AI                   (4185),8553.0,9269.0,Female
+IIT/Bhilai,AI                   (4185),10427.0,10427.0,Female
+Inst. Name/ No.,AI                   (4185),,,Female
+IIT/Kharagpur,AI                   (4185),3416.0,3996.0,Female
+IIT/Hyderabad,AI                   (4185),6734.0,7191.0,Female
+IIT/BHU Varanasi,AI                   (4185),8494.0,10245.0,Female
+IIT/Dharwad,AI                   (4185),9074.0,10290.0,Female
+Inst. Name/ No.,AI                   (4185),,,Female
+IIT/Patna,AI                   (4185),6294.0,6294.0,Female
+IIT/Delhi,CSE  (5216),457.0,563.0,Female
+Inst. Name/ No.,CSE  (5216),,,Female
+IIT/Bombay,CSE  (5216),1288.0,2990.0,Female
+IIT/Delhi,CSE  (5216),2792.0,3321.0,Female
+IIT/Kharagpur,CSE  (5216),3829.0,4695.0,Female
+IIT/Madras,CSE  (5216),3339.0,4297.0,Female
+IIT/Kanpur,CSE  (5216),3484.0,4172.0,Female
+IIT/Roorkee,CSE  (5216),3628.0,5153.0,Female
+IIT/Guwahati,CSE  (5216),5059.0,5461.0,Female
+IIT/Hyderabad,CSE  (5216),3236.0,4372.0,Female
+IIT/BHU Varanasi,CSE  (5216),6086.0,7082.0,Female
+IIT/Ropar,CSE  (5216),6740.0,8315.0,Female
+IIT/Indore,CSE  (5216),5505.0,6262.0,Female
+IIT/ISM Dhanbad,CSE  (5216),7294.0,8233.0,Female
+IIT/Gandhinagar,CSE  (5216),7773.0,8011.0,Female
+IIT/Patna,CSE  (5216),8361.0,8791.0,Female
+IIT/Jodhpur,CSE  (5216),7407.0,8457.0,Female
+IIT/Mandi,CSE  (5216),8628.0,8826.0,Female
+IIT/ Bhubneshwar,CSE  (5216),7589.0,8560.0,Female
+IIT/Tirupati,CSE  (5216),7812.0,8262.0,Female
+IIT/Jammu,CSE  (5216),9314.0,10241.0,Female
+IIT/Goa,CSE  (5216),8065.0,9279.0,Female
+IIT/Bhilai,CSE  (5216),9206.0,10129.0,Female
+IIT/Palakkad,CSE  (5216),9020.0,9327.0,Female
+IIT/Dharwad,CSE  (5216),9135.0,10216.0,Female
+Inst. Name/ No.,CSE  (5216),,,Female
+IIT/Ropar,CSE  (5216),3890.0,4474.0,Female
+Inst. Name/ No.,CSE  (5216),,,Female
+IIT/Bombay,CSE  (5216),3185.0,3185.0,Female
+Inst. Name/ No.,CSE  (5216),,,Female
+IIT/Kharagpur,CSE  (5216),5946.0,6250.0,Female
+Inst. Name/ No.,CSE  (5216),,,Female
+IIT/Patna,CSE  (5216),9873.0,9873.0,Female
+IIT/Delhi,Maths & Compu (5254),981.0,1135.0,Female
+Inst. Name/ No.,Maths & Compu (5254),,,Female
+IIT/Bombay,Maths & Compu (5254),2926.0,3280.0,Female
+IIT/Delhi,Maths & Compu (5254),3401.0,4023.0,Female
+IIT/Kharagpur,Maths & Compu (5254),4930.0,5452.0,Female
+IIT/Madras,Maths & Compu (5254),3435.0,4824.0,Female
+IIT/Kanpur,Maths & Compu (5254),4038.0,4961.0,Female
+IIT/Roorkee,Maths & Compu (5254),4887.0,5811.0,Female
+IIT/Hyderabad,Maths & Compu (5254),3705.0,5099.0,Female
+IIT/BHU Varanasi,Maths & Compu (5254),6542.0,8000.0,Female
+IIT/Ropar,Maths & Compu (5254),5953.0,7862.0,Female
+IIT/Indore,Maths & Compu (5254),5718.0,7111.0,Female
+IIT/ISM Dhanbad,Maths & Compu (5254),7833.0,8113.0,Female
+IIT/Gandhinagar,Maths & Compu (5254),6416.0,7702.0,Female
+IIT/Patna,Maths & Compu (5254),8875.0,9854.0,Female
+IIT/Jodhpur,Maths & Compu (5254),8464.0,8700.0,Female
+IIT/Mandi,Maths & Compu (5254),8490.0,8629.0,Female
+IIT/Tirupati,Maths & Compu (5254),7340.0,9261.0,Female
+IIT/Jammu,Maths & Compu (5254),10001.0,10449.0,Female
+Inst. Name/ No.,Maths & Compu (5254),,,Female
+IIT/BHU Varanasi,Maths & Compu (5254),8382.0,9300.0,Female
+IIT/ISM Dhanbad,Maths & Compu (5254),9277.0,9575.0,Female
+Inst. Name/ No.,Maths & Compu (5254),,,Female
+IIT/Bombay,Maths & Compu (5254),2749.0,3139.0,Female
+IIT/Kharagpur,Maths & Compu (5254),5542.0,6698.0,Female
+IIT/Kanpur,Maths & Compu (5254),4980.0,5416.0,Female
+IIT/Roorkee,Maths & Compu (5254),5564.0,6503.0,Female
+IIT/Patna,Maths & Compu (5254),8343.0,8343.0,Female
+Inst. Name/ No.,Maths & Compu (5254),,,Female
+IIT/Kharagpur,Maths & Compu (5254),7699.0,9073.0,Female
+IIT/BHU Varanasi,Maths & Compu (5254),10327.0,10900.0,Female
+IIT/ISM Dhanbad,Maths & Compu (5254),,,Female
+Inst. Name/ No.,Maths & Compu (5254),,,Female
+IIT/Patna,Maths & Compu (5254),5339.0,5339.0,Female
+IIT/Bombay,Elect. Engg. (4111),322.0,885.0,Female
+IIT/Delhi,Elect. Engg. (4111),1015.0,1238.0,Female
+IIT/Kharagpur,Elect. Engg. (4111),2178.0,2378.0,Female
+IIT/Madras,Elect. Engg. (4111),573.0,960.0,Female
+IIT/Kanpur,Elect. Engg. (4111),1411.0,2153.0,Female
+IIT/Roorkee,Elect. Engg. (4111),2293.0,2672.0,Female
+IIT/Hyderabad,Elect. Engg. (4111),1444.0,1982.0,Female
+IIT/BHU Varanasi,Elect. Engg. (4111),3076.0,3692.0,Female
+IIT/Ropar,Elect. Engg. (4111),5109.0,5987.0,Female
+IIT/Indore,Elect. Engg. (4111),2872.0,3723.0,Female
+IIT/ISM Dhanbad,Elect. Engg. (4111),4818.0,6076.0,Female
+IIT/Gandhinagar,Elect. Engg. (4111),3895.0,4856.0,Female
+IIT/Jodhpur,Elect. Engg. (4111),6001.0,6741.0,Female
+IIT/Mandi,Elect. Engg. (4111),5819.0,6932.0,Female
+IIT/ Bhubneshwar,Elect. Engg. (4111),5616.0,6113.0,Female
+IIT/Tirupati,Elect. Engg. (4111),4972.0,6028.0,Female
+IIT/Jammu,Elect. Engg. (4111),7905.0,8063.0,Female
+IIT/Goa,Elect. Engg. (4111),7474.0,7476.0,Female
+IIT/Palakkad,Elect. Engg. (4111),5230.0,7354.0,Female
+Inst. Name/ No.,Elect. Engg. (4111),,,Female
+IIT/Bombay,Elect. Engg. (4111),2681.0,4410.0,Female
+IIT/Delhi,Elect. Engg. (4111),3574.0,5414.0,Female
+IIT/Kharagpur,Elect. Engg. (4111),4891.0,7201.0,Female
+IIT/Madras,Elect. Engg. (4111),5415.0,7175.0,Female
+IIT/Kanpur,Elect. Engg. (4111),4877.0,5823.0,Female
+IIT/Roorkee,Elect. Engg. (4111),5276.0,7347.0,Female
+IIT/Guwahati,Elect. Engg. (4111),7456.0,7988.0,Female
+IIT/Hyderabad,Elect. Engg. (4111),5177.0,7015.0,Female
+IIT/BHU Varanasi,Elect. Engg. (4111),7688.0,8291.0,Female
+IIT/Ropar,Elect. Engg. (4111),8809.0,9871.0,Female
+IIT/Indore,Elect. Engg. (4111),8184.0,8509.0,Female
+IIT/ISM Dhanbad,Elect. Engg. (4111),9623.0,9910.0,Female
+IIT/Gandhinagar,Elect. Engg. (4111),8756.0,9008.0,Female
+IIT/Patna,Elect. Engg. (4111),9486.0,10364.0,Female
+IIT/Mandi,Elect. Engg. (4111),8698.0,9090.0,Female
+IIT/ Bhubneshwar,Elect. Engg. (4111),,,Female
+IIT/Tirupati,Elect. Engg. (4111),7590.0,8337.0,Female
+IIT/Jammu,Elect. Engg. (4111),10987.0,11028.0,Female
+IIT/Palakkad,Elect. Engg. (4111),8624.0,10142.0,Female
+Inst. Name/ No.,Elect. Engg. (4111),,,Female
+IIT/Kharagpur,Elect. Engg. (4111),5949.0,7677.0,Female
+IIT/Madras,Elect. Engg. (4111),4301.0,4737.0,Female
+IIT/Roorkee,Elect. Engg. (4111),6797.0,7375.0,Female
+IIT/Hyderabad,Elect. Engg. (4111),6653.0,7147.0,Female
+IIT/Ropar,Elect. Engg. (4111),9560.0,10272.0,Female
+IIT/Patna,Elect. Engg. (4111),10017.0,10452.0,Female
+IIT/ Bhubneshwar,Elect. Engg. (4111),9826.0,10420.0,Female
+Inst. Name/ No.,Elect. Engg. (4111),,,Female
+IIT/Bombay,Elect. Engg. (4111),4511.0,5353.0,Female
+IIT/ISM Dhanbad,Elect. Engg. (4111),9698.0,10374.0,Female
+Inst. Name/ No.,Elect. Engg. (4111),,,Female
+IIT/Kharagpur,Elect. Engg. (4111),7075.0,9390.0,Female
+Inst. Name/ No.,Elect. Engg. (4111),,,Female
+IIT/Patna,Elect. Engg. (4111),9260.0,9260.0,Female
+IIT/Roorkee,ECE          (4114),1518.0,2087.0,Female
+IIT/Guwahati,ECE          (4114),2163.0,2619.0,Female
+IIT/ISM Dhanbad,ECE          (4114),4069.0,4767.0,Female
+IIT/Patna,ECE          (4114),4902.0,5145.0,Female
+IIT/ Bhubneshwar,ECE          (4114),3745.0,4475.0,Female
+IIT/Bhilai,ECE          (4114),6138.0,6323.0,Female
+IIT/Dharwad,ECE          (4114),5679.0,6007.0,Female
+Inst. Name/ No.,ECE          (4114),,,Female
+IIT/Bombay,ECE          (4114),3273.0,4313.0,Female
+IIT/Delhi,ECE          (4114),4115.0,4249.0,Female
+IIT/Roorkee,ECE          (4114),5636.0,5636.0,Female
+IIT/Guwahati,ECE          (4114),7537.0,7537.0,Female
+Inst. Name/ No.,ECE          (4114),,,Female
+IIT/Ropar,ECE          (4114),5109.0,5987.0,Female
+Inst. Name/ No.,ECE          (4114),,,Female
+IIT/Bombay,ECE          (4114),7744.0,7744.0,Female
+Inst. Name/ No.,ECE          (4114),,,Female
+IIT/Kharagpur,ECE          (4114),7648.0,8100.0,Female
+Inst. Name/ No.,ECE          (4114),,,Female
+IIT/Patna,ECE          (4114),6902.0,6902.0,Female
+IIT/Kharagpur,Electron & Elec Engg EEE (4115),1002.0,1894.0,Female
+Inst. Name/ No.,Electron & Elec Engg EEE (4115),,,Female
+IIT/Patna,Electron & Elec Engg EEE (4115),6294.0,6294.0,Female
+Inst. Name/ No.,Electron & Elec Engg EEE (4115),,,Female
+IIT/Jodhpur,Electron & Elec Engg EEE (4115),7488.0,8646.0,Female
+IIT/Dharwad,Electron & Elec Engg EEE (4115),9350.0,10271.0,Female
+Inst. Name/ No.,Electron & Elec Engg EEE (4115),,,Female
+IIT/Mandi,Electron & Elec Engg EEE (4115),3887.0,6124.0,Female
+Inst. Name/ No.,Electron & Elec Engg EEE (4115),,,Female
+IIT/Kharagpur,Electron & Elec Engg EEE (4115),,,Female
+IIT/Kanpur,Electron & Elec Engg EEE (4115),8396.0,9100.0,Female
+Inst. Name/ No.,Electron & Elec Engg EEE (4115),,,Female
+IIT/ISM Dhanbad,Electron & Elec Engg EEE (4115),9510.0,10755.0,Female
+IIT/Delhi,Elect. Engg.  Power & Auto (4112),1270.0,1965.0,Female
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Female
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Female
+IIT/Palakkad,Elect. Engg.  Power & Auto (4112),5402.0,5773.0,Female
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Female
+IIT/Mandi,Elect. Engg.  Power & Auto (4112),7952.0,7966.0,Female
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Female
+IIT/Kharagpur,Elect. Engg.  Power & Auto (4112),9550.0,10166.0,Female
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Female
+IIT/Roorkee,Elect. Engg.  Power & Auto (4112),9685.0,9893.0,Female
+IIT/ISM Dhanbad,Elect. Engg.  Power & Auto (4112),10240.0,10240.0,Female
+IIT/Kharagpur,Maths & Compu SCI (4208),1312.0,2269.0,Female
+IIT/Hyderabad,Maths & Compu SCI (4208),1196.0,1268.0,Female
+Inst. Name/ No.,Maths & Compu SCI (4208),,,Female
+IIT/Roorkee,Maths & Compu SCI (4208),2316.0,2567.0,Female
+Inst. Name/ No.,Maths & Compu SCI (4208),,,Female
+IIT/Delhi,Maths & Compu SCI (4208),4126.0,5075.0,Female
+Inst. Name/ No.,Maths & Compu SCI (4208),,,Female
+IIT/Mandi,Maths & Compu SCI (4208),10600.0,10910.0,Female
+Inst. Name/ No.,Maths & Compu SCI (4208),,,Female
+IIT/Kharagpur,Maths & Compu SCI (4208),9446.0,9702.0,Female
+IIT/Madras,Maths & Compu SCI (4208),6494.0,6494.0,Female
+IIT/Kanpur,Maths & Compu SCI (4208),6616.0,8990.0,Female
+IIT/Dharwad,Maths & Compu SCI (4208),11146.0,11146.0,Female
+Inst. Name/ No.,Maths & Compu SCI (4208),,,Female
+IIT/Roorkee,Maths & Compu SCI (4208),9692.0,9908.0,Female
+IIT/ISM Dhanbad,Maths & Compu SCI (4208),11106.0,11106.0,Female
+IIT/Kanpur,Maths & Compu (4203),1951.0,2474.0,Female
+IISc./Banglore,Maths & Compu (4203),2649.0,2797.0,Female
+Inst. Name/ No.,Maths & Compu (4203),,,Female
+IIT/Dharwad,Maths & Compu (4203),10500.0,10692.0,Female
+Inst. Name/ No.,Maths & Compu (4203),,,Female
+IIT/Patna,Maths & Compu (4203),10167.0,10167.0,Female
+Inst. Name/ No.,Maths & Compu (4203),,,Female
+IIT/Madras,Maths & Compu (4203),7410.0,7410.0,Female
+IIT/Roorkee,Maths & Compu (4203),6576.0,8056.0,Female
+IIT/Guwahati,Maths & Compu (4203),7949.0,8987.0,Female
+IIT/Hyderabad,Maths & Compu (4203),6943.0,7237.0,Female
+IIT/Jodhpur,Maths & Compu (4203),9812.0,10635.0,Female
+IIT/Mandi,Maths & Compu (4203),10225.0,10546.0,Female
+Inst. Name/ No.,Maths & Compu (4203),,,Female
+IIT/Madras,Maths & Compu (4203),2751.0,4336.0,Female
+Inst. Name/ No.,Maths & Compu (4203),,,Female
+IIT/Roorkee,Maths & Compu (4203),9245.0,9435.0,Female
+IIT/ISM Dhanbad,Maths & Compu (4203),10482.0,10482.0,Female
+IIT/Kanpur,Data Sc. & AI (4181 / 4207),2077.0,2376.0,Female
+IIT/Roorkee,Data Sc. & AI (4181 / 4207),1072.0,1177.0,Female
+IIT/Guwahati,Data Sc. & AI (4181 / 4207),1351.0,1420.0,Female
+IIT/Mandi,Data Sc. & AI (4181 / 4207),4228.0,4684.0,Female
+IIT/Bhilai,Data Sc. & AI (4181 / 4207),5373.0,5902.0,Female
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Female
+IIT/Patna,Data Sc. & AI (4181 / 4207),6902.0,6902.0,Female
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Female
+IIT/Bombay,Data Sc. & AI (4181 / 4207),2638.0,3632.0,Female
+IIT/Kharagpur,Data Sc. & AI (4181 / 4207),3550.0,5228.0,Female
+IIT/Madras,Data Sc. & AI (4181 / 4207),2583.0,3378.0,Female
+IIT/Kanpur,Data Sc. & AI (4181 / 4207),3935.0,4904.0,Female
+IIT/Indore,Data Sc. & AI (4181 / 4207),6928.0,6928.0,Female
+IIT/Jodhpur,Data Sc. & AI (4181 / 4207),6952.0,7461.0,Female
+IISc./Banglore,Data Sc. & AI (4181 / 4207),3729.0,3843.0,Female
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Female
+IIT/Delhi,Data Sc. & AI (4181 / 4207),1916.0,2020.0,Female
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Female
+IIT/Madras,Data Sc. & AI (4181 / 4207),4769.0,5907.0,Female
+IIT/BHU Varanasi,Data Sc. & AI (4181 / 4207),9616.0,9616.0,Female
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Female
+IIT/Roorkee,Data Sc. & AI (4181 / 4207),10149.0,10201.0,Female
+IIT/ISM Dhanbad,Data Sc. & AI (4181 / 4207),10849.0,10849.0,Female
+IIT/Jodhpur,Data Sc. & AI (4181 / 4207),9285.0,9285.0,Female
+IIT/Patna,Data Sc. & AI (4188),3690.0,3867.0,Female
+IIT/Jodhpur,Data Sc. & AI (4188),3998.0,4660.0,Female
+Inst. Name/ No.,Data Sc. & AI (4188),,,Female
+IIT/Patna,Data Sc. & AI (4188),,,Female
+Inst. Name/ No.,Data Sc. & AI (4188),,,Female
+IIT/Madras,Data Sc. & AI (4188),4706.0,4706.0,Female
+Inst. Name/ No.,Data Sc. & AI (4188),,,Female
+IIT/Delhi,Data Sc. & AI (4188),6552.0,6855.0,Female
+IIT/Hyderabad,Data Sc. & AI (4188),6109.0,6204.0,Female
+IIT/BHU Varanasi,Data Sc. & AI (4188),8889.0,8889.0,Female
+Inst. Name/ No.,Data Sc. & AI (4188),,,Female
+IIT/Madras,Data Sc. & AI (4188),5783.0,6995.0,Female
+Inst. Name/ No.,Data Sc. & AI (4188),,,Female
+IIT/Guwahati,Data Sc. & AI (4188),6830.0,7675.0,Female
+IIT/Patna,Data Sc. & AI (4188),9827.0,9938.0,Female
+IIT/Jodhpur,Data Sc. & AI (4188),10768.0,10768.0,Female
+IIT/Madras,Comp En & Mechs (412U),1442.0,1660.0,Female
+Inst. Name/ No.,Comp En & Mechs (412U),,,Female
+IIT/Roorkee,Comp En & Mechs (412U),7330.0,9946.0,Female
+Inst. Name/ No.,Comp En & Mechs (412U),,,Female
+IIT/Patna,Comp En & Mechs (412U),5780.0,5780.0,Female
+Inst. Name/ No.,Comp En & Mechs (412U),,,Female
+IIT/Delhi,Comp En & Mechs (412U),4726.0,5756.0,Female
+IIT/Roorkee,Comp En & Mechs (412U),5978.0,6783.0,Female
+IIT/Bhilai,Comp En & Mechs (412U),8096.0,8800.0,Female
+Inst. Name/ No.,Comp En & Mechs (412U),,,Female
+IIT/Madras,Comp En & Mechs (412U),7410.0,7410.0,Female
+IIT/Kanpur,Comp En & Mechs (412U),7206.0,7338.0,Female
+Inst. Name/ No.,Comp En & Mechs (412U),,,Female
+IIT/Hyderabad,Comp En & Mechs (412U),2754.0,2941.0,Female
+IIT/Ropar,Comp En & Mechs (412U),7273.0,7867.0,Female
+IIT/Jammu,Comp En & Mechs (412U),10235.0,10258.0,Female
+IIT/Bombay,CSE         (4110),22.0,62.0,Male
+IIT/Delhi,CSE         (4110),53.0,108.0,Male
+IIT/Kharagpur,CSE         (4110),159.0,258.0,Male
+IIT/Madras,CSE         (4110),35.0,96.0,Male
+IIT/Kanpur,CSE         (4110),97.0,158.0,Male
+IIT/Roorkee,CSE         (4110),178.0,312.0,Male
+IIT/Guwahati,CSE         (4110),315.0,392.0,Male
+IIT/Hyderabad,CSE         (4110),183.0,299.0,Male
+IIT/BHU Varanasi,CSE         (4110),394.0,601.0,Male
+IIT/Ropar,CSE         (4110),868.0,1220.0,Male
+IIT/Indore,CSE         (4110),469.0,713.0,Male
+IIT/ISM Dhanbad,CSE         (4110),987.0,1334.0,Male
+IIT/Gandhinagar,CSE         (4110),718.0,986.0,Male
+IIT/Patna,CSE         (4110),919.0,1258.0,Male
+IIT/Jodhpur,CSE         (4110),971.0,1536.0,Male
+IIT/Mandi,CSE         (4110),1131.0,1434.0,Male
+IIT/ Bhubneshwar,CSE         (4110),1242.0,1551.0,Male
+IIT/Tirupati,CSE         (4110),1567.0,1971.0,Male
+IIT/Jammu,CSE         (4110),1745.0,2662.0,Male
+IIT/Goa,CSE         (4110),1768.0,2234.0,Male
+IIT/Bhilai,CSE         (4110),2256.0,2815.0,Male
+IIT/Palakkad,CSE         (4110),2007.0,2432.0,Male
+IIT/Dharwad,CSE         (4110),2264.0,2782.0,Male
+Inst. Name/ No.,CSE         (4110),,,Male
+IIT/Kharagpur,CSE         (4110),429.0,735.0,Male
+Inst. Name/ No.,CSE         (4110),,,Male
+IIT/Bombay,CSE         (4110),277.0,1162.0,Male
+IIT/Delhi,CSE         (4110),764.0,1679.0,Male
+IIT/Madras,CSE         (4110),486.0,756.0,Male
+IIT/Roorkee,CSE         (4110),1926.0,2356.0,Male
+IIT/Guwahati,CSE         (4110),2041.0,3122.0,Male
+IIT/Hyderabad,CSE         (4110),1306.0,1994.0,Male
+IIT/BHU Varanasi,CSE         (4110),3220.0,3620.0,Male
+IIT/Ropar,CSE         (4110),4346.0,4557.0,Male
+IIT/Indore,CSE         (4110),3323.0,3720.0,Male
+IIT/ISM Dhanbad,CSE         (4110),3831.0,4499.0,Male
+IIT/Patna,CSE         (4110),4104.0,4785.0,Male
+IIT/Jodhpur,CSE         (4110),4462.0,5465.0,Male
+IIT/Mandi,CSE         (4110),4480.0,5041.0,Male
+IIT/ Bhubneshwar,CSE         (4110),4399.0,4967.0,Male
+IIT/Tirupati,CSE         (4110),4802.0,5019.0,Male
+IIT/Jammu,CSE         (4110),5501.0,6136.0,Male
+IIT/Dharwad,CSE         (4110),5022.0,5775.0,Male
+Inst. Name/ No.,CSE         (4110),,,Male
+IIT/Patna,CSE         (4110),2608.0,2608.0,Male
+Inst. Name/ No.,CSE         (4110),,,Male
+IIT/Bombay,CSE         (4110),882.0,1449.0,Male
+IIT/Kharagpur,CSE         (4110),2563.0,3213.0,Male
+IIT/Kanpur,CSE         (4110),1499.0,2338.0,Male
+IIT/Roorkee,CSE         (4110),2721.0,3410.0,Male
+IIT/Patna,CSE         (4110),,,Male
+Inst. Name/ No.,CSE         (4110),,,Male
+IIT/Roorkee,CSE         (4110),3295.0,5241.0,Male
+IIT/ISM Dhanbad,CSE         (4110),5960.0,6218.0,Male
+IIT/Madras,AI & DA         (412L),100.0,161.0,Male
+Inst. Name/ No.,AI & DA         (412L),,,Male
+IIT/Ropar,AI & DA         (412L),2162.0,2283.0,Male
+Inst. Name/ No.,AI & DA         (412L),,,Male
+IIT/Bombay,AI & DA         (412L),762.0,1354.0,Male
+IIT/Delhi,AI & DA         (412L),1019.0,1452.0,Male
+IIT/Kharagpur,AI & DA         (412L),2061.0,2501.0,Male
+IIT/Madras,AI & DA         (412L),1353.0,1944.0,Male
+IIT/Kanpur,AI & DA         (412L),1609.0,2148.0,Male
+IIT/Roorkee,AI & DA         (412L),1973.0,2449.0,Male
+IIT/Guwahati,AI & DA         (412L),2160.0,2844.0,Male
+IIT/Hyderabad,AI & DA         (412L),1974.0,2270.0,Male
+IIT/BHU Varanasi,AI & DA         (412L),2851.0,3609.0,Male
+IIT/Ropar,AI & DA         (412L),3953.0,4517.0,Male
+IIT/Indore,AI & DA         (412L),3443.0,3666.0,Male
+IIT/ISM Dhanbad,AI & DA         (412L),3792.0,4592.0,Male
+IIT/Gandhinagar,AI & DA         (412L),3172.0,3957.0,Male
+IIT/Patna,AI & DA         (412L),3756.0,4931.0,Male
+IIT/Jodhpur,AI & DA         (412L),4206.0,4977.0,Male
+IIT/Tirupati,AI & DA         (412L),4810.0,5642.0,Male
+IIT/Jammu,AI & DA         (412L),5218.0,5905.0,Male
+Inst. Name/ No.,AI & DA         (412L),,,Male
+IIT/Bombay,AI & DA         (412L),667.0,886.0,Male
+IIT/Dharwad,AI & DA         (412L),5657.0,6017.0,Male
+Inst. Name/ No.,AI & DA         (412L),,,Male
+IIT/Delhi,AI & DA         (412L),1950.0,3035.0,Male
+IIT/Hyderabad,AI & DA         (412L),3244.0,3644.0,Male
+IIT/BHU Varanasi,AI & DA         (412L),4501.0,5156.0,Male
+Inst. Name/ No.,AI & DA         (412L),,,Male
+IIT/Roorkee,AI & DA         (412L),4009.0,4545.0,Male
+IIT/ISM Dhanbad,AI & DA         (412L),5955.0,6202.0,Male
+IIT/Delhi,Maths & Compu Tech  (4124),131.0,199.0,Male
+IIT/Guwahati,Maths & Compu Tech  (4124),447.0,625.0,Male
+IIT/BHU Varanasi,Maths & Compu Tech  (4124),706.0,845.0,Male
+IIT/Ropar,Maths & Compu Tech  (4124),1129.0,1911.0,Male
+IIT/Indore,Maths & Compu Tech  (4124),880.0,973.0,Male
+IIT/ISM Dhanbad,Maths & Compu Tech  (4124),1316.0,1739.0,Male
+IIT/Patna,Maths & Compu Tech  (4124),1302.0,1923.0,Male
+IIT/Jodhpur,Maths & Compu Tech  (4124),1962.0,2303.0,Male
+IIT/ Bhubneshwar,Maths & Compu Tech  (4124),1750.0,1959.0,Male
+IIT/Jammu,Maths & Compu Tech  (4124),2600.0,3337.0,Male
+IIT/Goa,Maths & Compu Tech  (4124),2450.0,2964.0,Male
+IIT/Dharwad,Maths & Compu Tech  (4124),2798.0,3200.0,Male
+IISc./Banglore,Maths & Compu Tech  (4124),235.0,567.0,Male
+Inst. Name/ No.,Maths & Compu Tech  (4124),,,Male
+IIT/Kharagpur,Maths & Compu Tech  (4124),449.0,709.0,Male
+IIT/Hyderabad,Maths & Compu Tech  (4124),251.0,440.0,Male
+Inst. Name/ No.,Maths & Compu Tech  (4124),,,Male
+IIT/Bombay,Maths & Compu Tech  (4124),489.0,1048.0,Male
+IIT/Delhi,Maths & Compu Tech  (4124),811.0,1090.0,Male
+IIT/Kharagpur,Maths & Compu Tech  (4124),1257.0,1875.0,Male
+IIT/Madras,Maths & Compu Tech  (4124),673.0,1218.0,Male
+IIT/Kanpur,Maths & Compu Tech  (4124),972.0,1578.0,Male
+IIT/Roorkee,Maths & Compu Tech  (4124),1040.0,1969.0,Male
+IIT/Guwahati,Maths & Compu Tech  (4124),1981.0,2333.0,Male
+IIT/Hyderabad,Maths & Compu Tech  (4124),1310.0,2008.0,Male
+IIT/BHU Varanasi,Maths & Compu Tech  (4124),2146.0,3175.0,Male
+IIT/Ropar,Maths & Compu Tech  (4124),3276.0,4096.0,Male
+IIT/Indore,Maths & Compu Tech  (4124),2375.0,3178.0,Male
+IIT/ISM Dhanbad,Maths & Compu Tech  (4124),3196.0,3959.0,Male
+IIT/Gandhinagar,Maths & Compu Tech  (4124),2553.0,3477.0,Male
+IIT/Patna,Maths & Compu Tech  (4124),1302.0,1923.0,Male
+IIT/Jodhpur,Maths & Compu Tech  (4124),3138.0,4279.0,Male
+IIT/Mandi,Maths & Compu Tech  (4124),3304.0,4459.0,Male
+IIT/ Bhubneshwar,Maths & Compu Tech  (4124),3454.0,4352.0,Male
+IIT/Tirupati,Maths & Compu Tech  (4124),3939.0,4473.0,Male
+IIT/Jammu,Maths & Compu Tech  (4124),4573.0,5426.0,Male
+IIT/Goa,Maths & Compu Tech  (4124),4663.0,5287.0,Male
+IIT/Bhilai,Maths & Compu Tech  (4124),4555.0,5514.0,Male
+IIT/Palakkad,Maths & Compu Tech  (4124),4064.0,4721.0,Male
+IIT/Dharwad,Maths & Compu Tech  (4124),4179.0,5570.0,Male
+Inst. Name/ No.,Maths & Compu Tech  (4124),,,Male
+IIT/Delhi,Maths & Compu Tech  (4124),1952.0,2359.0,Male
+IIT/Gandhinagar,Maths & Compu Tech  (4124),4390.0,5156.0,Male
+IIT/Jodhpur,Maths & Compu Tech  (4124),5037.0,5948.0,Male
+IIT/Jammu,Maths & Compu Tech  (4124),6036.0,6266.0,Male
+Inst. Name/ No.,Maths & Compu Tech  (4124),,,Male
+IIT/Bombay,Maths & Compu Tech  (4124),2055.0,2648.0,Male
+IIT/ISM Dhanbad,Maths & Compu Tech  (4124),5216.0,6075.0,Male
+Inst. Name/ No.,Maths & Compu Tech  (4124),,,Male
+IIT/Delhi,Maths & Compu Tech  (4124),3916.0,5459.0,Male
+IIT/Kharagpur,AI                   (4185),389.0,432.0,Male
+IIT/Hyderabad,AI                   (4185),313.0,405.0,Male
+IIT/Gandhinagar,AI                   (4185),640.0,1169.0,Male
+IIT/Patna,AI                   (4185),1352.0,1602.0,Male
+Inst. Name/ No.,AI                   (4185),,,Male
+IIT/Patna,AI                   (4185),1352.0,1602.0,Male
+IIT/Jodhpur,AI                   (4185),1377.0,1946.0,Male
+Inst. Name/ No.,AI                   (4185),,,Male
+IIT/Bombay,AI                   (4185),350.0,864.0,Male
+IIT/Kharagpur,AI                   (4185),966.0,1348.0,Male
+Inst. Name/ No.,AI                   (4185),,,Male
+IIT/Kharagpur,AI                   (4185),1475.0,2278.0,Male
+IIT/Hyderabad,AI                   (4185),2639.0,3602.0,Male
+IIT/BHU Varanasi,AI                   (4185),4497.0,4681.0,Male
+IIT/Dharwad,AI                   (4185),5564.0,6021.0,Male
+Inst. Name/ No.,AI                   (4185),,,Male
+IIT/Bombay,AI                   (4185),3217.0,3641.0,Male
+Inst. Name/ No.,AI                   (4185),,,Male
+IIT/Madras,AI                   (4185),2032.0,3111.0,Male
+IIT/Roorkee,AI                   (4185),3162.0,3789.0,Male
+IIT/Guwahati,AI                   (4185),3921.0,4389.0,Male
+IIT/Hyderabad,AI                   (4185),3244.0,3644.0,Male
+IIT/BHU Varanasi,AI                   (4185),4790.0,5067.0,Male
+IIT/Jodhpur,AI                   (4185),5034.0,6116.0,Male
+IIT/Patna,Maths & Compu (5609) / (5A09),1934.0,1953.0,Male
+Inst. Name/ No.,Maths & Compu (5609) / (5A09),,,Male
+IIT/Guwahati,Maths & Compu (5609) / (5A09),968.0,1060.0,Male
+Inst. Name/ No.,Maths & Compu (5609) / (5A09),,,Male
+IIT/Delhi,Maths & Compu (5609) / (5A09),578.0,783.0,Male
+Inst. Name/ No.,Maths & Compu (5609) / (5A09),,,Male
+IIT/Kharagpur,Maths & Compu (5609) / (5A09),2732.0,3361.0,Male
+Inst. Name/ No.,Maths & Compu (5609) / (5A09),,,Male
+IIT/Kharagpur,Maths & Compu (5609) / (5A09),,,Male
+IIT/Kanpur,Maths & Compu (5609) / (5A09),3877.0,4992.0,Male
+Inst. Name/ No.,Maths & Compu (5609) / (5A09),,,Male
+IIT/Kharagpur,Maths & Compu (5609) / (5A09),3642.0,4671.0,Male
+IIT/Ropar,Maths & Compu (5609) / (5A09),4401.0,5699.0,Male
+IIT/Mandi,Maths & Compu (5609) / (5A09),4814.0,5705.0,Male
+IIT/Delhi,CSE  (5216),109.0,166.0,Male
+IIT/Roorkee,CSE  (5216),522.0,789.0,Male
+Inst. Name/ No.,CSE  (5216),,,Male
+IIT/Hyderabad,CSE  (5216),727.0,949.0,Male
+Inst. Name/ No.,CSE  (5216),,,Male
+IIT/Delhi,CSE  (5216),1325.0,2207.0,Male
+IIT/Roorkee,CSE  (5216),2317.0,3027.0,Male
+IIT/Bhilai,CSE  (5216),4453.0,4885.0,Male
+Inst. Name/ No.,CSE  (5216),,,Male
+IIT/Madras,CSE  (5216),746.0,1322.0,Male
+Inst. Name/ No.,CSE  (5216),,,Male
+IIT/Patna,CSE  (5216),1813.0,1813.0,Male
+Inst. Name/ No.,CSE  (5216),,,Male
+IIT/Kharagpur,CSE  (5216),3596.0,4047.0,Male
+IIT/BHU Varanasi,CSE  (5216),4145.0,5329.0,Male
+IIT/ISM Dhanbad,CSE  (5216),,,Male
+IIT/Ropar,AI & Data Engg.       (411G),1347.0,1812.0,Male
+Inst. Name/ No.,AI & Data Engg.       (411G),,,Male
+IIT/Bombay,AI & Data Engg.       (411G),296.0,545.0,Male
+IIT/Bhilai,AI & Data Engg.       (411G),3608.0,4369.0,Male
+IIT/Palakkad,AI & Data Engg.       (411G),2882.0,3699.0,Male
+Inst. Name/ No.,AI & Data Engg.       (411G),,,Male
+IIT/Bombay,AI & Data Engg.       (411G),1023.0,2025.0,Male
+IIT/Delhi,AI & Data Engg.       (411G),1510.0,2318.0,Male
+IIT/Kharagpur,AI & Data Engg.       (411G),2335.0,3271.0,Male
+IIT/Madras,AI & Data Engg.       (411G),2094.0,2644.0,Male
+IIT/Kanpur,AI & Data Engg.       (411G),2488.0,3058.0,Male
+IIT/Roorkee,AI & Data Engg.       (411G),2396.0,3084.0,Male
+IIT/Guwahati,AI & Data Engg.       (411G),3092.0,3639.0,Male
+IIT/Hyderabad,AI & Data Engg.       (411G),2125.0,3370.0,Male
+IIT/BHU Varanasi,AI & Data Engg.       (411G),3460.0,3980.0,Male
+IIT/Ropar,AI & Data Engg.       (411G),3983.0,4649.0,Male
+IIT/Indore,AI & Data Engg.       (411G),3349.0,4081.0,Male
+IIT/ISM Dhanbad,AI & Data Engg.       (411G),4234.0,4812.0,Male
+IIT/Gandhinagar,AI & Data Engg.       (411G),3818.0,4256.0,Male
+IIT/Patna,AI & Data Engg.       (411G),4657.0,5370.0,Male
+IIT/Mandi,AI & Data Engg.       (411G),4765.0,5432.0,Male
+IIT/ Bhubneshwar,AI & Data Engg.       (411G),,,Male
+IIT/Tirupati,AI & Data Engg.       (411G),5374.0,5835.0,Male
+IIT/Jammu,AI & Data Engg.       (411G),5428.0,6065.0,Male
+IIT/Palakkad,AI & Data Engg.       (411G),5108.0,6072.0,Male
+Inst. Name/ No.,AI & Data Engg.       (411G),,,Male
+IIT/Kharagpur,AI & Data Engg.       (411G),3746.0,5182.0,Male
+IIT/Madras,AI & Data Engg.       (411G),2100.0,2327.0,Male
+IIT/Kanpur,AI & Data Engg.       (411G),2805.0,4365.0,Male
+IIT/Mandi,AI & Data Engg.       (411G),2254.0,3219.0,Male
+IIT/Jammu,AI & Data Engg.       (411G),4147.0,5994.0,Male
+IIT/Dharwad,AI & Data Engg.       (411G),6037.0,6372.0,Male
+Inst. Name/ No.,AI & Data Engg.       (411G),,,Male
+IIT/Patna,AI & Data Engg.       (411G),3315.0,3315.0,Male
+Inst. Name/ No.,AI & Data Engg.       (411G),,,Male
+IIT/Mandi,AI & Data Engg.       (411G),2070.0,2543.0,Male
+IIT/Delhi,Maths & Compu Engg (5254),200.0,247.0,Male
+Inst. Name/ No.,Maths & Compu Engg (5254),,,Male
+IIT/Hyderabad,Maths & Compu Engg (5254),558.0,855.0,Male
+IIT/Gandhinagar,Maths & Compu Engg (5254),1664.0,2074.0,Male
+Inst. Name/ No.,Maths & Compu Engg (5254),,,Male
+IIT/Patna,Maths & Compu Engg (5254),,,Male
+Inst. Name/ No.,Maths & Compu Engg (5254),,,Male
+IIT/Madras,Maths & Compu Engg (5254),2032.0,3111.0,Male
+IIT/BHU Varanasi,Maths & Compu Engg (5254),,,Male
+IIT/Jodhpur,Maths & Compu Engg (5254),5034.0,6116.0,Male
+Inst. Name/ No.,Maths & Compu Engg (5254),,,Male
+IIT/Guwahati,Maths & Compu Engg (5254),2883.0,3502.0,Male
+IIT/ISM Dhanbad,Maths & Compu Engg (5254),5960.0,6218.0,Male
+IIT/Patna,Maths & Compu Engg (5254),5122.0,5683.0,Male
+IIT/Mandi,Maths & Compu Engg (5254),6078.0,6312.0,Male
+Inst. Name/ No.,Maths & Compu Engg (5254),,,Male
+IIT/Mandi,Maths & Compu Engg (5254),3357.0,4208.0,Male
+IIT/Patna,CSE & MTe CSE    (5A05),1409.0,1558.0,Male
+Inst. Name/ No.,CSE & MTe CSE    (5A05),,,Male
+IIT/Bombay,CSE & MTe CSE    (5A05),517.0,1546.0,Male
+IIT/Kharagpur,CSE & MTe CSE    (5A05),2135.0,2423.0,Male
+IIT/Madras,CSE & MTe CSE    (5A05),816.0,1868.0,Male
+IIT/Kanpur,CSE & MTe CSE    (5A05),1723.0,2121.0,Male
+IIT/Indore,CSE & MTe CSE    (5A05),2869.0,3520.0,Male
+IISc./Banglore,CSE & MTe CSE    (5A05),1132.0,1942.0,Male
+Inst. Name/ No.,CSE & MTe CSE    (5A05),,,Male
+IIT/Kanpur,CSE & MTe CSE    (5A05),2726.0,3149.0,Male
+IIT/BHU Varanasi,CSE & MTe CSE    (5A05),3670.0,4257.0,Male
+IIT/Mandi,CSE & MTe CSE    (5A05),4564.0,5734.0,Male
+IIT/Palakkad,CSE & MTe CSE    (5A05),5592.0,6216.0,Male
+IISc./Banglore,CSE & MTe CSE    (5A05),1563.0,2323.0,Male
+Inst. Name/ No.,CSE & MTe CSE    (5A05),,,Male
+IIT/Madras,CSE & MTe CSE    (5A05),2226.0,3215.0,Male
+Inst. Name/ No.,CSE & MTe CSE    (5A05),,,Male
+IIT/Patna,CSE & MTe CSE    (5A05),2825.0,2825.0,Male
+Inst. Name/ No.,CSE & MTe CSE    (5A05),,,Male
+IIT/Mandi,CSE & MTe CSE    (5A05),5718.0,6092.0,Male
+IIT/Bombay,Elect. Engg. (4111),106.0,281.0,Male
+IIT/Delhi,Elect. Engg. (4111),328.0,425.0,Male
+IIT/Kharagpur,Elect. Engg. (4111),734.0,946.0,Male
+IIT/Madras,Elect. Engg. (4111),144.0,377.0,Male
+IIT/Kanpur,Elect. Engg. (4111),431.0,693.0,Male
+IIT/Roorkee,Elect. Engg. (4111),763.0,1027.0,Male
+IIT/Hyderabad,Elect. Engg. (4111),404.0,894.0,Male
+IIT/BHU Varanasi,Elect. Engg. (4111),1197.0,1529.0,Male
+IIT/Ropar,Elect. Engg. (4111),1907.0,2807.0,Male
+IIT/Indore,Elect. Engg. (4111),817.0,1522.0,Male
+IIT/ISM Dhanbad,Elect. Engg. (4111),2174.0,2743.0,Male
+IIT/Gandhinagar,Elect. Engg. (4111),1515.0,1938.0,Male
+IIT/Jodhpur,Elect. Engg. (4111),2098.0,2983.0,Male
+IIT/Mandi,Elect. Engg. (4111),2182.0,3005.0,Male
+IIT/ Bhubneshwar,Elect. Engg. (4111),2394.0,2970.0,Male
+IIT/Tirupati,Elect. Engg. (4111),2493.0,3354.0,Male
+IIT/Jammu,Elect. Engg. (4111),3435.0,4230.0,Male
+IIT/Goa,Elect. Engg. (4111),3256.0,3804.0,Male
+IIT/Palakkad,Elect. Engg. (4111),2764.0,3719.0,Male
+Inst. Name/ No.,Elect. Engg. (4111),,,Male
+IIT/Patna,Elect. Engg. (4111),,,Male
+Inst. Name/ No.,Elect. Engg. (4111),,,Male
+IIT/Kharagpur,Elect. Engg. (4111),2984.0,3584.0,Male
+IIT/Madras,Elect. Engg. (4111),2245.0,2499.0,Male
+IIT/Roorkee,Elect. Engg. (4111),2808.0,3585.0,Male
+IIT/Hyderabad,Elect. Engg. (4111),2707.0,3329.0,Male
+IIT/Ropar,Elect. Engg. (4111),4836.0,5490.0,Male
+IIT/Patna,Elect. Engg. (4111),5248.0,5848.0,Male
+IIT/ Bhubneshwar,Elect. Engg. (4111),4913.0,5825.0,Male
+IIT/Bhilai,Elect. Engg. (4111),5557.0,6105.0,Male
+Inst. Name/ No.,Elect. Engg. (4111),,,Male
+IIT/Madras,Elect. Engg. (4111),4328.0,4969.0,Male
+IIT/Kanpur,Elect. Engg. (4111),3222.0,3688.0,Male
+Inst. Name/ No.,Elect. Engg. (4111),,,Male
+IIT/Patna,Elect. Engg. (4111),5525.0,5525.0,Male
+Inst. Name/ No.,Elect. Engg. (4111),,,Male
+IIT/Roorkee,ECE          (4114),374.0,752.0,Male
+IIT/Guwahati,ECE          (4114),770.0,899.0,Male
+IIT/ISM Dhanbad,ECE          (4114),4069.0,4767.0,Male
+IIT/Patna,ECE          (4114),1791.0,2297.0,Male
+IIT/ Bhubneshwar,ECE          (4114),1553.0,2132.0,Male
+IIT/Bhilai,ECE          (4114),2653.0,3498.0,Male
+IIT/Dharwad,ECE          (4114),3012.0,3441.0,Male
+Inst. Name/ No.,ECE          (4114),,,Male
+IIT/Madras,ECE          (4114),1032.0,1456.0,Male
+IIT/Jodhpur,ECE          (4114),3030.0,4005.0,Male
+Inst. Name/ No.,ECE          (4114),,,Male
+IIT/BHU Varanasi,ECE          (4114),3679.0,4494.0,Male
+IIT/ISM Dhanbad,ECE          (4114),4489.0,5669.0,Male
+Inst. Name/ No.,ECE          (4114),,,Male
+IIT/Delhi,ECE          (4114),2569.0,3313.0,Male
+IIT/BHU Varanasi,ECE          (4114),4044.0,4990.0,Male
+Inst. Name/ No.,ECE          (4114),,,Male
+IIT/Patna,ECE          (4114),,,Male
+Inst. Name/ No.,ECE          (4114),,,Male
+IIT/Madras,Comp En & Mechs (412U),288.0,645.0,Male
+IISc./Banglore,Comp En & Mechs (412U),648.0,923.0,Male
+Inst. Name/ No.,Comp En & Mechs (412U),,,Male
+IIT/BHU Varanasi,Comp En & Mechs (412U),884.0,1189.0,Male
+IIT/Jodhpur,Comp En & Mechs (412U),2185.0,2770.0,Male
+Inst. Name/ No.,Comp En & Mechs (412U),,,Male
+IIT/Bombay,Comp En & Mechs (412U),1649.0,2289.0,Male
+IIT/Indore,Comp En & Mechs (412U),4084.0,4637.0,Male
+Inst. Name/ No.,Comp En & Mechs (412U),,,Male
+IIT/Jodhpur,Comp En & Mechs (412U),3793.0,4930.0,Male
+IIT/Dharwad,Comp En & Mechs (412U),5766.0,6129.0,Male
+Inst. Name/ No.,Comp En & Mechs (412U),,,Male
+IIT/Patna,Comp En & Mechs (412U),5687.0,5687.0,Male
+Inst. Name/ No.,Comp En & Mechs (412U),,,Male
+IIT/Kharagpur,Comp En & Mechs (412U),3385.0,4173.0,Male
+IIT/Kanpur,Data Sc. & AI (4181 / 4207),656.0,823.0,Male
+IIT/Roorkee,Data Sc. & AI (4181 / 4207),319.0,433.0,Male
+IIT/Guwahati,Data Sc. & AI (4181 / 4207),455.0,544.0,Male
+IIT/Mandi,Data Sc. & AI (4181 / 4207),1494.0,1850.0,Male
+IIT/Bhilai,Data Sc. & AI (4181 / 4207),2842.0,3112.0,Male
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Male
+IIT/Bombay,Data Sc. & AI (4181 / 4207),1363.0,1577.0,Male
+IIT/Delhi,Data Sc. & AI (4181 / 4207),1406.0,1821.0,Male
+IIT/Roorkee,Data Sc. & AI (4181 / 4207),2453.0,2536.0,Male
+IIT/Guwahati,Data Sc. & AI (4181 / 4207),2550.0,2821.0,Male
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Male
+IIT/Delhi,Data Sc. & AI (4181 / 4207),1539.0,2198.0,Male
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Male
+IIT/Patna,Data Sc. & AI (4181 / 4207),5569.0,5585.0,Male
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Male
+IIT/Patna,Data Sc. & AI (4181 / 4207),5926.0,5926.0,Male
+Inst. Name/ No.,Data Sc. & AI (4181 / 4207),,,Male
+IIT/Roorkee,Data Sc. & AI (4181 / 4207),2386.0,4080.0,Male
+IIT/ISM Dhanbad,Data Sc. & AI (4181 / 4207),5653.0,6155.0,Male
+IIT/Kanpur,Maths & Compu (4203),250.0,707.0,Male
+Inst. Name/ No.,Maths & Compu (4203),,,Male
+IIT/Patna,Maths & Compu (4203),2310.0,2817.0,Male
+IIT/Dharwad,Maths & Compu (4203),3548.0,4026.0,Male
+Inst. Name/ No.,Maths & Compu (4203),,,Male
+IIT/Patna,Maths & Compu (4203),2900.0,3485.0,Male
+Inst. Name/ No.,Maths & Compu (4203),,,Male
+IIT/Kharagpur,Maths & Compu (4203),6975.0,7973.0,Male
+IIT/Roorkee,Maths & Compu (4203),5821.0,7464.0,Male
+IIT/BHU Varanasi,Maths & Compu (4203),8415.0,9002.0,Male
+Inst. Name/ No.,Maths & Compu (4203),,,Male
+IIT/Palakkad,Maths & Compu (4203),2364.0,3230.0,Male
+Inst. Name/ No.,Maths & Compu (4203),,,Male
+IIT/Delhi,Elect. Engg.  Power & Auto (4112),289.0,524.0,Male
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Male
+IIT/Roorkee,Elect. Engg.  Power & Auto (4112),522.0,789.0,Male
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Male
+IIT/Mandi,Elect. Engg.  Power & Auto (4112),1391.0,1920.0,Male
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Male
+IIT/Bombay,Elect. Engg.  Power & Auto (4112),3065.0,4062.0,Male
+IIT/Delhi,Elect. Engg.  Power & Auto (4112),4233.0,4691.0,Male
+IIT/Kharagpur,Elect. Engg.  Power & Auto (4112),5172.0,5798.0,Male
+IIT/Kanpur,Elect. Engg.  Power & Auto (4112),4371.0,4997.0,Male
+IIT/ISM Dhanbad,Elect. Engg.  Power & Auto (4112),4068.0,4987.0,Male
+IIT/Patna,Elect. Engg.  Power & Auto (4112),6259.0,6357.0,Male
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Male
+IIT/Roorkee,Elect. Engg.  Power & Auto (4112),3934.0,5117.0,Male
+IIT/ISM Dhanbad,Elect. Engg.  Power & Auto (4112),5580.0,6264.0,Male
+Inst. Name/ No.,Elect. Engg.  Power & Auto (4112),,,Male
+IIT/Hyderabad,Elect. Engg.  Power & Auto (4112),1098.0,1299.0,Male
