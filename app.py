@@ -6,7 +6,7 @@ st.set_page_config(page_title="IIT College Predictor", layout="wide")
 
 # 2. Load the cleaned data
 # @st.cache_data ensures the CSV is only loaded once into memory, making the app fast
-@st.cache_data
+# @st.cache_data
 def load_data():
     return pd.read_csv('cleaned_iit_cutoffs_2026.csv')
 
