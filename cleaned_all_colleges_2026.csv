@@ -1,0 +1,1145 @@
+Institute,Branch,Opening_Rank,Closing_Rank,Gender,Type
+IIT/Bombay,CSE         (4110),88.0,280.0,Female,IIT
+IIT/Delhi,CSE         (4110),307.0,375.0,Female,IIT
+IIT/Kharagpur,CSE         (4110),391.0,733.0,Female,IIT
+IIT/Madras,CSE         (4110),102.0,287.0,Female,IIT
+IIT/Kanpur,CSE         (4110),479.0,666.0,Female,IIT
+IIT/Roorkee,CSE         (4110),782.0,1003.0,Female,IIT
+IIT/Guwahati,CSE         (4110),1053.0,1183.0,Female,IIT
+IIT/Hyderabad,CSE         (4110),493.0,660.0,Female,IIT
+IIT/BHU Varanasi,CSE         (4110),1204.0,1857.0,Female,IIT
+IIT/Ropar,CSE         (4110),2331.0,3540.0,Female,IIT
+IIT/Indore,CSE         (4110),1873.0,2285.0,Female,IIT
+IIT/ISM Dhanbad,CSE         (4110),2372.0,3440.0,Female,IIT
+IIT/Gandhinagar,CSE         (4110),2354.0,2700.0,Female,IIT
+IIT/Patna,CSE         (4110),3010.0,3592.0,Female,IIT
+IIT/Jodhpur,CSE         (4110),3621.0,3880.0,Female,IIT
+IIT/Mandi,CSE         (4110),2975.0,3809.0,Female,IIT
+IIT/ Bhubneshwar,CSE         (4110),2762.0,3481.0,Female,IIT
+IIT/Tirupati,CSE         (4110),2687.0,3403.0,Female,IIT
+IIT/Jammu,CSE         (4110),4770.0,5333.0,Female,IIT
+IIT/Goa,CSE         (4110),4558.0,4786.0,Female,IIT
+IIT/Bhilai,CSE         (4110),4762.0,4911.0,Female,IIT
+IIT/Palakkad,CSE         (4110),4334.0,4804.0,Female,IIT
+IIT/Dharwad,CSE         (4110),4855.0,5296.0,Female,IIT
+IIT/Madras,AI & DA         (412L),401.0,474.0,Female,IIT
+IIT/Delhi,Maths & Compu Tech (4124),661.0,956.0,Female,IIT
+IIT/Guwahati,Maths & Compu Tech (4124),1523.0,2152.0,Female,IIT
+IIT/BHU Varanasi,Maths & Compu Tech (4124),2145.0,2505.0,Female,IIT
+IIT/Ropar,Maths & Compu Tech (4124),3870.0,4600.0,Female,IIT
+IIT/Indore,Maths & Compu Tech (4124),2348.0,2513.0,Female,IIT
+IIT/ISM Dhanbad,Maths & Compu Tech (4124),3546.0,4428.0,Female,IIT
+IIT/Patna,Maths & Compu Tech (4124),4516.0,4760.0,Female,IIT
+IIT/ Bhubneshwar,Maths & Compu Tech (4124),4264.0,4264.0,Female,IIT
+IIT/Jammu,Maths & Compu Tech (4124),5440.0,6550.0,Female,IIT
+IIT/Goa,Maths & Compu Tech (4124),5176.0,6344.0,Female,IIT
+IIT/Dharwad,Maths & Compu Tech (4124),5539.0,5733.0,Female,IIT
+IISc./Banglore,Maths & Compu Tech (4124),730.0,1067.0,Female,IIT
+IIT/Kharagpur,AI                   (4185),806.0,1195.0,Female,IIT
+IIT/Hyderabad,AI                   (4185),858.0,898.0,Female,IIT
+IIT/Gandhinagar,AI                   (4185),2759.0,2873.0,Female,IIT
+IIT/Delhi,CSE  (5216),457.0,563.0,Female,IIT
+IIT/Delhi,Maths & Compu (5254),981.0,1135.0,Female,IIT
+IIT/Bombay,Elect. Engg. (4111),322.0,885.0,Female,IIT
+IIT/Delhi,Elect. Engg. (4111),1015.0,1238.0,Female,IIT
+IIT/Kharagpur,Elect. Engg. (4111),2178.0,2378.0,Female,IIT
+IIT/Madras,Elect. Engg. (4111),573.0,960.0,Female,IIT
+IIT/Kanpur,Elect. Engg. (4111),1411.0,2153.0,Female,IIT
+IIT/Roorkee,Elect. Engg. (4111),2293.0,2672.0,Female,IIT
+IIT/Hyderabad,Elect. Engg. (4111),1444.0,1982.0,Female,IIT
+IIT/BHU Varanasi,Elect. Engg. (4111),3076.0,3692.0,Female,IIT
+IIT/Ropar,Elect. Engg. (4111),5109.0,5987.0,Female,IIT
+IIT/Indore,Elect. Engg. (4111),2872.0,3723.0,Female,IIT
+IIT/ISM Dhanbad,Elect. Engg. (4111),4818.0,6076.0,Female,IIT
+IIT/Gandhinagar,Elect. Engg. (4111),3895.0,4856.0,Female,IIT
+IIT/Jodhpur,Elect. Engg. (4111),6001.0,6741.0,Female,IIT
+IIT/Mandi,Elect. Engg. (4111),5819.0,6932.0,Female,IIT
+IIT/ Bhubneshwar,Elect. Engg. (4111),5616.0,6113.0,Female,IIT
+IIT/Tirupati,Elect. Engg. (4111),4972.0,6028.0,Female,IIT
+IIT/Jammu,Elect. Engg. (4111),7905.0,8063.0,Female,IIT
+IIT/Goa,Elect. Engg. (4111),7474.0,7476.0,Female,IIT
+IIT/Palakkad,Elect. Engg. (4111),5230.0,7354.0,Female,IIT
+IIT/Roorkee,ECE          (4114),1518.0,2087.0,Female,IIT
+IIT/Guwahati,ECE          (4114),2163.0,2619.0,Female,IIT
+IIT/ISM Dhanbad,ECE          (4114),4069.0,4767.0,Female,IIT
+IIT/Patna,ECE          (4114),4902.0,5145.0,Female,IIT
+IIT/ Bhubneshwar,ECE          (4114),3745.0,4475.0,Female,IIT
+IIT/Bhilai,ECE          (4114),6138.0,6323.0,Female,IIT
+IIT/Dharwad,ECE          (4114),5679.0,6007.0,Female,IIT
+IIT/Kharagpur,Electron & Elec Engg EEE (4115),1002.0,1894.0,Female,IIT
+IIT/Delhi,Elect. Engg.  Power & Auto (4112),1270.0,1965.0,Female,IIT
+IIT/Kharagpur,Maths & Compu SCI (4208),1312.0,2269.0,Female,IIT
+IIT/Hyderabad,Maths & Compu SCI (4208),1196.0,1268.0,Female,IIT
+IIT/Kanpur,Maths & Compu (4203),1951.0,2474.0,Female,IIT
+IISc./Banglore,Maths & Compu (4203),2649.0,2797.0,Female,IIT
+IIT/Kanpur,Data Sc. & AI (4181 / 4207),2077.0,2376.0,Female,IIT
+IIT/Roorkee,Data Sc. & AI (4181 / 4207),1072.0,1177.0,Female,IIT
+IIT/Guwahati,Data Sc. & AI (4181 / 4207),1351.0,1420.0,Female,IIT
+IIT/Mandi,Data Sc. & AI (4181 / 4207),4228.0,4684.0,Female,IIT
+IIT/Bhilai,Data Sc. & AI (4181 / 4207),5373.0,5902.0,Female,IIT
+IIT/Patna,Data Sc. & AI (4188),3690.0,3867.0,Female,IIT
+IIT/Jodhpur,Data Sc. & AI (4188),3998.0,4660.0,Female,IIT
+IIT/Madras,Comp En & Mechs (412U),1442.0,1660.0,Female,IIT
+IIT/Guwahati,Electronics & Electrical     (4116),2715.0,2820.0,Female,IIT
+IIT/Patna,Electrical  & Electro  (4144),5483.0,6237.0,Female,IIT
+IIT/Dharwad,Electrical  & Electro  (4144),6791.0,7627.0,Female,IIT
+IIT/Bombay,Elect. Engg. (5217),1147.0,1651.0,Female,IIT
+IIT/BHU Varanasi,Electronics Engg.       (4113),2725.0,3018.0,Female,IIT
+IIT/Jodhpur,Electronics Engg.       (4113),5142.0,6587.0,Female,IIT
+IIT/Bombay,Mechanical Engg.  (4125),1288.0,2990.0,Female,IIT
+IIT/Delhi,Mechanical Engg.  (4125),2792.0,3321.0,Female,IIT
+IIT/Kharagpur,Mechanical Engg.  (4125),3829.0,4695.0,Female,IIT
+IIT/Madras,Mechanical Engg.  (4125),3339.0,4297.0,Female,IIT
+IIT/Kanpur,Mechanical Engg.  (4125),3484.0,4172.0,Female,IIT
+IIT/Roorkee,Mechanical Engg.  (4125),3628.0,5153.0,Female,IIT
+IIT/Guwahati,Mechanical Engg.  (4125),5059.0,5461.0,Female,IIT
+IIT/Hyderabad,Mechanical Engg.  (4125),3236.0,4372.0,Female,IIT
+IIT/BHU Varanasi,Mechanical Engg.  (4125),6086.0,7082.0,Female,IIT
+IIT/Ropar,Mechanical Engg.  (4125),6740.0,8315.0,Female,IIT
+IIT/Indore,Mechanical Engg.  (4125),5505.0,6262.0,Female,IIT
+IIT/ISM Dhanbad,Mechanical Engg.  (4125),7294.0,8233.0,Female,IIT
+IIT/Gandhinagar,Mechanical Engg.  (4125),7773.0,8011.0,Female,IIT
+IIT/Patna,Mechanical Engg.  (4125),8361.0,8791.0,Female,IIT
+IIT/Jodhpur,Mechanical Engg.  (4125),7407.0,8457.0,Female,IIT
+IIT/Mandi,Mechanical Engg.  (4125),8628.0,8826.0,Female,IIT
+IIT/ Bhubneshwar,Mechanical Engg.  (4125),7589.0,8560.0,Female,IIT
+IIT/Tirupati,Mechanical Engg.  (4125),7812.0,8262.0,Female,IIT
+IIT/Jammu,Mechanical Engg.  (4125),9314.0,10241.0,Female,IIT
+IIT/Goa,Mechanical Engg.  (4125),8065.0,9279.0,Female,IIT
+IIT/Bhilai,Mechanical Engg.  (4125),9206.0,10129.0,Female,IIT
+IIT/Palakkad,Mechanical Engg.  (4125),9020.0,9327.0,Female,IIT
+IIT/Dharwad,Mechanical Engg.  (4125),9135.0,10216.0,Female,IIT
+IIT/Bombay,Chemical Engg   (4107),2926.0,3280.0,Female,IIT
+IIT/Delhi,Chemical Engg   (4107),3401.0,4023.0,Female,IIT
+IIT/Kharagpur,Chemical Engg   (4107),4930.0,5452.0,Female,IIT
+IIT/Madras,Chemical Engg   (4107),3435.0,4824.0,Female,IIT
+IIT/Kanpur,Chemical Engg   (4107),4038.0,4961.0,Female,IIT
+IIT/Roorkee,Chemical Engg   (4107),4887.0,5811.0,Female,IIT
+IIT/Hyderabad,Chemical Engg   (4107),3705.0,5099.0,Female,IIT
+IIT/BHU Varanasi,Chemical Engg   (4107),6542.0,8000.0,Female,IIT
+IIT/Ropar,Chemical Engg   (4107),5953.0,7862.0,Female,IIT
+IIT/Indore,Chemical Engg   (4107),5718.0,7111.0,Female,IIT
+IIT/ISM Dhanbad,Chemical Engg   (4107),7833.0,8113.0,Female,IIT
+IIT/Gandhinagar,Chemical Engg   (4107),6416.0,7702.0,Female,IIT
+IIT/Patna,Chemical Engg   (4107),8875.0,9854.0,Female,IIT
+IIT/Jodhpur,Chemical Engg   (4107),8464.0,8700.0,Female,IIT
+IIT/Mandi,Chemical Engg   (4107),8490.0,8629.0,Female,IIT
+IIT/Tirupati,Chemical Engg   (4107),7340.0,9261.0,Female,IIT
+IIT/Jammu,Chemical Engg   (4107),10001.0,10449.0,Female,IIT
+IIT/Bombay,Civil Engg. (4109),2681.0,4410.0,Female,IIT
+IIT/Delhi,Civil Engg. (4109),3574.0,5414.0,Female,IIT
+IIT/Kharagpur,Civil Engg. (4109),4891.0,7201.0,Female,IIT
+IIT/Madras,Civil Engg. (4109),5415.0,7175.0,Female,IIT
+IIT/Kanpur,Civil Engg. (4109),4877.0,5823.0,Female,IIT
+IIT/Roorkee,Civil Engg. (4109),5276.0,7347.0,Female,IIT
+IIT/Guwahati,Civil Engg. (4109),7456.0,7988.0,Female,IIT
+IIT/Hyderabad,Civil Engg. (4109),5177.0,7015.0,Female,IIT
+IIT/BHU Varanasi,Civil Engg. (4109),7688.0,8291.0,Female,IIT
+IIT/Ropar,Civil Engg. (4109),8809.0,9871.0,Female,IIT
+IIT/Indore,Civil Engg. (4109),8184.0,8509.0,Female,IIT
+IIT/ISM Dhanbad,Civil Engg. (4109),9623.0,9910.0,Female,IIT
+IIT/Gandhinagar,Civil Engg. (4109),8756.0,9008.0,Female,IIT
+IIT/Patna,Civil Engg. (4109),9486.0,10364.0,Female,IIT
+IIT/Mandi,Civil Engg. (4109),8698.0,9090.0,Female,IIT
+IIT/ Bhubneshwar,Civil Engg. (4109),,,Female,IIT
+IIT/Tirupati,Civil Engg. (4109),7590.0,8337.0,Female,IIT
+IIT/Jammu,Civil Engg. (4109),10987.0,11028.0,Female,IIT
+IIT/Palakkad,Civil Engg. (4109),8624.0,10142.0,Female,IIT
+IIT/Bombay,Energy Engg.     (4198),3273.0,4313.0,Female,IIT
+IIT/Delhi,Energy Engg.     (4198),4115.0,4249.0,Female,IIT
+IIT/Roorkee,Energy Engg.     (4198),5636.0,5636.0,Female,IIT
+IIT/Guwahati,Energy Engg.     (4198),7537.0,7537.0,Female,IIT
+IIT/Patna,ECE & MTe Communic  VLSI (5A06),6294.0,6294.0,Female,IIT
+IIT/Roorkee,Maths & Compu (5606),2316.0,2567.0,Female,IIT
+IIT/Dharwad,Maths & Compu (5609) ,10500.0,10692.0,Female,IIT
+IIT/Patna,EEE & MTe Power cont    (5A07),6902.0,6902.0,Female,IIT
+IIT/Patna,Mch &MBA IIM Bomb    (5416)/ (5A10),,,Female,IIT
+IIT/Roorkee,Architect (5101),7330.0,9946.0,Female,IIT
+IIT/Hyderabad,Computat Engg.    (410A),1945.0,2248.0,Female,IIT
+IIT/Hyderabad,Elec Engg. IC design Tech.  (410T) / (412J),1779.0,1881.0,Female,IIT
+IIT/Gandhinagar,Elec Engg. IC design Tech.  (410T) / (412J),5355.0,5865.0,Female,IIT
+IIT/Kanpur,Material Sc & Engg.          (4123)/411D / (412O),6164.0,7195.0,Female,IIT
+IIT/BHU Varanasi,Material Sc & Engg.          (4123)/411D / (412O),7990.0,8236.0,Female,IIT
+IIT/Mandi,Material Sc & Engg.          (4123)/411D / (412O),9281.0,10058.0,Female,IIT
+IIT/Palakkad,Material Sc & Engg.          (4123)/411D / (412O),10656.0,10785.0,Female,IIT
+IISc./Banglore,Material Sc & Engg.          (4123)/411D / (412O),4231.0,4231.0,Female,IIT
+IIT/Mandi,Maths & Computing (411F)/ Major Maths,4022.0,4295.0,Female,IIT
+IIT/Dharwad,Maths & Computing (411F)/ Major Maths,9768.0,9768.0,Female,IIT
+IIT/Ropar,AI & Data Engg.       (411G),3890.0,4474.0,Female,IIT
+IIT/BHU Varanasi,Metallurgic Engg.     (4126) /Minaral (4189),8382.0,9300.0,Female,IIT
+IIT/ISM Dhanbad,Metallurgic Engg.     (4126) /Minaral (4189),9277.0,9575.0,Female,IIT
+IIT/Kharagpur,Metallurg & Material SC   (4127)/(4161),5949.0,7677.0,Female,IIT
+IIT/Madras,Metallurg & Material SC   (4127)/(4161),4301.0,4737.0,Female,IIT
+IIT/Roorkee,Metallurg & Material SC   (4127)/(4161),6797.0,7375.0,Female,IIT
+IIT/Hyderabad,Metallurg & Material SC   (4127)/(4161),6653.0,7147.0,Female,IIT
+IIT/Ropar,Metallurg & Material SC   (4127)/(4161),9560.0,10272.0,Female,IIT
+IIT/Patna,Metallurg & Material SC   (4127)/(4161),10017.0,10452.0,Female,IIT
+IIT/ Bhubneshwar,Metallurg & Material SC   (4127)/(4161),9826.0,10420.0,Female,IIT
+IIT/Ropar,Elec Engg. Circuit & Tech (413B),5109.0,5987.0,Female,IIT
+IIT/Jodhpur,Civil Engg & Infrastruc.    (4141),7488.0,8646.0,Female,IIT
+IIT/Dharwad,Civil Engg & Infrastruc.    (4141),9350.0,10271.0,Female,IIT
+IIT/Palakkad,Data Sc. & Engg.     (4187) ,5402.0,5773.0,Female,IIT
+IIT/Delhi,Chemical Engg.       (5210),4126.0,5075.0,Female,IIT
+IIT/Patna,BT Civil & structural (5A04),10167.0,10167.0,Female,IIT
+IIT/Bombay,Aerospace Engg. /Space Sc      (4101)/ (413I),2638.0,3632.0,Female,IIT
+IIT/Kharagpur,Aerospace Engg. /Space Sc      (4101)/ (413I),3550.0,5228.0,Female,IIT
+IIT/Madras,Aerospace Engg. /Space Sc      (4101)/ (413I),2583.0,3378.0,Female,IIT
+IIT/Kanpur,Aerospace Engg. /Space Sc      (4101)/ (413I),3935.0,4904.0,Female,IIT
+IIT/Indore,Aerospace Engg. /Space Sc      (4101)/ (413I),6928.0,6928.0,Female,IIT
+IIT/Jodhpur,Aerospace Engg. /Space Sc      (4101)/ (413I),6952.0,7461.0,Female,IIT
+IISc./Banglore,Aerospace Engg. /Space Sc      (4101)/ (413I),3729.0,3843.0,Female,IIT
+IIT/Madras,Aerospace Engg.      (5201),4706.0,4706.0,Female,IIT
+IIT/Patna,Btech AI & MBA Gaya (5414),5780.0,5780.0,Female,IIT
+IIT/Bombay,Instrumentation Engg.       (4121) Indust (412I),1986.0,2608.0,Female,IIT
+IIT/Kharagpur,Instrumentation Engg.       (4121) Indust (412I),,,Female,IIT
+IIT/Bombay,Chemistry     (4201)   Petroleum Engg (4134),7623.0,7860.0,Female,IIT
+IIT/Delhi,Chemistry     (4201)   Petroleum Engg (4134),8487.0,9163.0,Female,IIT
+IIT/Kharagpur,Chemistry     (4201)   Petroleum Engg (4134),9759.0,9932.0,Female,IIT
+IIT/Kanpur,Chemistry     (4201)   Petroleum Engg (4134),8327.0,9266.0,Female,IIT
+IIT/ISM Dhanbad,Chemistry     (4201)   Petroleum Engg (4134),8817.0,10045.0,Female,IIT
+IIT/Bombay,Engg. Physics    (4117),3029.0,3840.0,Female,IIT
+IIT/Delhi,Engg. Physics    (4117),3036.0,4968.0,Female,IIT
+IIT/Madras,Engg. Physics    (4117),2951.0,3015.0,Female,IIT
+IIT/Roorkee,Engg. Physics    (4117),5878.0,6664.0,Female,IIT
+IIT/Guwahati,Engg. Physics    (4117),6975.0,6595.0,Female,IIT
+IIT/Hyderabad,Engg. Physics    (4117),3722.0,3722.0,Female,IIT
+IIT/BHU Varanasi,Engg. Physics    (4117),6515.0,7552.0,Female,IIT
+IIT/Ropar,Engg. Physics    (4117),8350.0,8350.0,Female,IIT
+IIT/Indore,Engg. Physics    (4117),8044.0,8044.0,Female,IIT
+IIT/ISM Dhanbad,Engg. Physics    (4117),8318.0,8427.0,Female,IIT
+IIT/Patna,Engg. Physics    (4117),9220.0,9767.0,Female,IIT
+IIT/Mandi,Engg. Physics    (4117),9790.0,10363.0,Female,IIT
+IIT/ Bhubneshwar,Engg. Physics    (4117),8625.0,8625.0,Female,IIT
+IIT/Tirupati,Engg. Physics    (4117),8725.0,8725.0,Female,IIT
+IIT/Jammu,Engg. Physics    (4117),11046.0,11136.0,Female,IIT
+IIT/Dharwad,Engg. Physics    (4117),9282.0,9521.0,Female,IIT
+IIT/Bombay,Metallurgical Engg & Mat Sc  (4128),3417.0,4498.0,Female,IIT
+IIT/Indore,Metallurgical Engg & Mat Sc  (4128),8553.0,9269.0,Female,IIT
+IIT/Bhilai,Metallurgical Engg & Mat Sc  (4128),10427.0,10427.0,Female,IIT
+IIT/Bombay,BS in Maths     (4206),3185.0,3185.0,Female,IIT
+IIT/Bombay,Economics    (4202)/ (5608) ,2749.0,3139.0,Female,IIT
+IIT/Kharagpur,Economics    (4202)/ (5608) ,5542.0,6698.0,Female,IIT
+IIT/Kanpur,Economics    (4202)/ (5608) ,4980.0,5416.0,Female,IIT
+IIT/Roorkee,Economics    (4202)/ (5608) ,5564.0,6503.0,Female,IIT
+IIT/Patna,Economics    (4202)/ (5608) ,8343.0,8343.0,Female,IIT
+IIT/Bombay,Environment Sc.  (410U)  Engg (4119),4511.0,5353.0,Female,IIT
+IIT/ISM Dhanbad,Environment Sc.  (410U)  Engg (4119),9698.0,10374.0,Female,IIT
+IIT/Bombay,Applied Engg & Geo Phy     (4215),7744.0,7744.0,Female,IIT
+IIT/Mandi,B.Tech in Microelectro (411E),3887.0,6124.0,Female,IIT
+IIT/Mandi,B.Tech in Gen. Engg.    (410Y),7952.0,7966.0,Female,IIT
+IIT/Mandi,BS in Chemical Sc.   (4213),10600.0,10910.0,Female,IIT
+IIT/Madras,Bio. Engg.   (4143)/(412N) Bio Sc. (4194)/(4191),7410.0,7410.0,Female,IIT
+IIT/Roorkee,Bio. Engg.   (4143)/(412N) Bio Sc. (4194)/(4191),6576.0,8056.0,Female,IIT
+IIT/Guwahati,Bio. Engg.   (4143)/(412N) Bio Sc. (4194)/(4191),7949.0,8987.0,Female,IIT
+IIT/Hyderabad,Bio. Engg.   (4143)/(412N) Bio Sc. (4194)/(4191),6943.0,7237.0,Female,IIT
+IIT/Jodhpur,Bio. Engg.   (4143)/(412N) Bio Sc. (4194)/(4191),9812.0,10635.0,Female,IIT
+IIT/Mandi,Bio. Engg.   (4143)/(412N) Bio Sc. (4194)/(4191),10225.0,10546.0,Female,IIT
+IIT/Delhi,Engg. & Computational Engg (4192),1916.0,2020.0,Female,IIT
+IIT/Delhi,Bio Tech & Bio Engg.  (4105)/(4199) (4173),6552.0,6855.0,Female,IIT
+IIT/Hyderabad,Bio Tech & Bio Engg.  (4105)/(4199) (4173),6109.0,6204.0,Female,IIT
+IIT/BHU Varanasi,Bio Tech & Bio Engg.  (4105)/(4199) (4173),8889.0,8889.0,Female,IIT
+IIT/Delhi,Production & Industrial Eng (4136) Mechat engg (4178),4726.0,5756.0,Female,IIT
+IIT/Roorkee,Production & Industrial Eng (4136) Mechat engg (4178),5978.0,6783.0,Female,IIT
+IIT/Bhilai,Production & Industrial Eng (4136) Mechat engg (4178),8096.0,8800.0,Female,IIT
+IIT/Delhi,Material Sc.   (4193),5532.0,5611.0,Female,IIT
+IIT/Gandhinagar,Material Sc.   (4193),8304.0,8918.0,Female,IIT
+IIT/Jodhpur,Material Sc.   (4193),9554.0,10038.0,Female,IIT
+IIT/Jammu,Material Sc.   (4193),10758.0,11051.0,Female,IIT
+IIT/Delhi,Textile Tech. (4139)/ Ceramic (4106),5659.0,6765.0,Female,IIT
+IIT/BHU Varanasi,Textile Tech. (4139)/ Ceramic (4106),10030.0,10781.0,Female,IIT
+IIT/Delhi,Design       (412T),5238.0,5238.0,Female,IIT
+IIT/Kharagpur,Idustrial chem Sc. & Engg.            (4170)/(410B)  (410D),3416.0,3996.0,Female,IIT
+IIT/Hyderabad,Idustrial chem Sc. & Engg.            (4170)/(410B)  (410D),6734.0,7191.0,Female,IIT
+IIT/BHU Varanasi,Idustrial chem Sc. & Engg.            (4170)/(410B)  (410D),8494.0,10245.0,Female,IIT
+IIT/Dharwad,Idustrial chem Sc. & Engg.            (4170)/(410B)  (410D),9074.0,10290.0,Female,IIT
+IIT/Kharagpur,Manufacturi Sci. & Engg. (4122),5946.0,6250.0,Female,IIT
+IIT/Kharagpur,Mining Engg. (4130)/ Space Engg/ Machin (4131),7699.0,9073.0,Female,IIT
+IIT/BHU Varanasi,Mining Engg. (4130)/ Space Engg/ Machin (4131),10327.0,10900.0,Female,IIT
+IIT/ISM Dhanbad,Mining Engg. (4130)/ Space Engg/ Machin (4131),,,Female,IIT
+IIT/Kharagpur,Agriculture & Food Tech.   (4102) /(412W),7075.0,9390.0,Female,IIT
+IIT/Kharagpur,Ocean & Naval Engg.   (4133),7648.0,8100.0,Female,IIT
+IIT/Kharagpur,Exploration Geophysics (4210 /  Biotech 4205)/ Earth Engg,,,Female,IIT
+IIT/Kanpur,Exploration Geophysics (4210 /  Biotech 4205)/ Earth Engg,8396.0,9100.0,Female,IIT
+IIT/Kharagpur,Applied Geo Physics   (4209),9550.0,10166.0,Female,IIT
+IIT/Kharagpur,Physics           (4204),9446.0,9702.0,Female,IIT
+IIT/Madras,Physics           (4204),6494.0,6494.0,Female,IIT
+IIT/Kanpur,Physics           (4204),6616.0,8990.0,Female,IIT
+IIT/Dharwad,Physics           (4204),11146.0,11146.0,Female,IIT
+IIT/Madras,Engg Design (5227),2751.0,4336.0,Female,IIT
+IIT/Madras,Biological Engg (411 N) Biochem/ Biomed (412M)/ (412V),4769.0,5907.0,Female,IIT
+IIT/BHU Varanasi,Biological Engg (411 N) Biochem/ Biomed (412M)/ (412V),9616.0,9616.0,Female,IIT
+IIT/Madras,Naval Arch & ocean Engg   (4132),5783.0,6995.0,Female,IIT
+IIT/Madras,Biological Sc. (4214/ 4103),7410.0,7410.0,Female,IIT
+IIT/Kanpur,Biological Sc. (4214/ 4103),7206.0,7338.0,Female,IIT
+IIT/Patna,B Tech civil  & MBA BG   (5407) / CE + Geot (5A03),,,Female,IIT
+IIT/Patna,B Tech Chem Sc. & MBA BG   (5406),10305.0,10305.0,Female,IIT
+IIT/Patna,B Tech ECE & MBA BG   (5409),6294.0,6294.0,Female,IIT
+IIT/Patna,B Tech Engg phy  & MBA BG   (5410),9873.0,9873.0,Female,IIT
+IIT/Patna,B Tech maths comp. & MBA BG   (5411),5339.0,5339.0,Female,IIT
+IIT/Patna,"B Tech ME , Mtech mechtro   (5412)",9260.0,9260.0,Female,IIT
+IIT/Patna,B Tech EEE & Mtech Power control   (5413),6902.0,6902.0,Female,IIT
+IIT/ISM Dhanbad,B Tech Chem Sc. & / Minning MBA BG   (5415),9510.0,10755.0,Female,IIT
+IIT/Roorkee,Geological Tech(5302) Min + MBA (5C02),9685.0,9893.0,Female,IIT
+IIT/ISM Dhanbad,Geological Tech(5302) Min + MBA (5C02),10240.0,10240.0,Female,IIT
+IIT/Roorkee,Chemical Sc. (5607) Applied Geophy (5307),9692.0,9908.0,Female,IIT
+IIT/ISM Dhanbad,Chemical Sc. (5607) Applied Geophy (5307),11106.0,11106.0,Female,IIT
+IIT/Roorkee,Geophysical Sc. (5303) Applied Geol (5306),9245.0,9435.0,Female,IIT
+IIT/ISM Dhanbad,Geophysical Sc. (5303) Applied Geol (5306),10482.0,10482.0,Female,IIT
+IIT/Roorkee,Physics   (5602) Physical Sci (5H0A)/ (4211),10149.0,10201.0,Female,IIT
+IIT/ISM Dhanbad,Physics   (5602) Physical Sci (5H0A)/ (4211),10849.0,10849.0,Female,IIT
+IIT/Jodhpur,Physics   (5602) Physical Sci (5H0A)/ (4211),9285.0,9285.0,Female,IIT
+IIT/Guwahati,Chemical Sci (4108)   / Engg Chem (5H2B)/ (4212),6830.0,7675.0,Female,IIT
+IIT/Patna,Chemical Sci (4108)   / Engg Chem (5H2B)/ (4212),9827.0,9938.0,Female,IIT
+IIT/Jodhpur,Chemical Sci (4108)   / Engg Chem (5H2B)/ (4212),10768.0,10768.0,Female,IIT
+IIT/Hyderabad,Engg. Sci. (4118)/ Unified Engg,2754.0,2941.0,Female,IIT
+IIT/Ropar,Engg. Sci. (4118)/ Unified Engg,7273.0,7867.0,Female,IIT
+IIT/Jammu,Engg. Sci. (4118)/ Unified Engg,10235.0,10258.0,Female,IIT
+IIT/Bombay,CSE         (4110),22.0,62.0,Male,IIT
+IIT/Delhi,CSE         (4110),53.0,108.0,Male,IIT
+IIT/Kharagpur,CSE         (4110),159.0,258.0,Male,IIT
+IIT/Madras,CSE         (4110),35.0,96.0,Male,IIT
+IIT/Kanpur,CSE         (4110),97.0,158.0,Male,IIT
+IIT/Roorkee,CSE         (4110),178.0,312.0,Male,IIT
+IIT/Guwahati,CSE         (4110),315.0,392.0,Male,IIT
+IIT/Hyderabad,CSE         (4110),183.0,299.0,Male,IIT
+IIT/BHU Varanasi,CSE         (4110),394.0,601.0,Male,IIT
+IIT/Ropar,CSE         (4110),868.0,1220.0,Male,IIT
+IIT/Indore,CSE         (4110),469.0,713.0,Male,IIT
+IIT/ISM Dhanbad,CSE         (4110),987.0,1334.0,Male,IIT
+IIT/Gandhinagar,CSE         (4110),718.0,986.0,Male,IIT
+IIT/Patna,CSE         (4110),919.0,1258.0,Male,IIT
+IIT/Jodhpur,CSE         (4110),971.0,1536.0,Male,IIT
+IIT/Mandi,CSE         (4110),1131.0,1434.0,Male,IIT
+IIT/ Bhubneshwar,CSE         (4110),1242.0,1551.0,Male,IIT
+IIT/Tirupati,CSE         (4110),1567.0,1971.0,Male,IIT
+IIT/Jammu,CSE         (4110),1745.0,2662.0,Male,IIT
+IIT/Goa,CSE         (4110),1768.0,2234.0,Male,IIT
+IIT/Bhilai,CSE         (4110),2256.0,2815.0,Male,IIT
+IIT/Palakkad,CSE         (4110),2007.0,2432.0,Male,IIT
+IIT/Dharwad,CSE         (4110),2264.0,2782.0,Male,IIT
+IIT/Madras,AI & DA         (412L),100.0,161.0,Male,IIT
+IIT/Delhi,Maths & Compu Tech  (4124),131.0,199.0,Male,IIT
+IIT/Guwahati,Maths & Compu Tech  (4124),447.0,625.0,Male,IIT
+IIT/BHU Varanasi,Maths & Compu Tech  (4124),706.0,845.0,Male,IIT
+IIT/Ropar,Maths & Compu Tech  (4124),1129.0,1911.0,Male,IIT
+IIT/Indore,Maths & Compu Tech  (4124),880.0,973.0,Male,IIT
+IIT/ISM Dhanbad,Maths & Compu Tech  (4124),1316.0,1739.0,Male,IIT
+IIT/Patna,Maths & Compu Tech  (4124),1302.0,1923.0,Male,IIT
+IIT/Jodhpur,Maths & Compu Tech  (4124),1962.0,2303.0,Male,IIT
+IIT/ Bhubneshwar,Maths & Compu Tech  (4124),1750.0,1959.0,Male,IIT
+IIT/Jammu,Maths & Compu Tech  (4124),2600.0,3337.0,Male,IIT
+IIT/Goa,Maths & Compu Tech  (4124),2450.0,2964.0,Male,IIT
+IIT/Dharwad,Maths & Compu Tech  (4124),2798.0,3200.0,Male,IIT
+IISc./Banglore,Maths & Compu Tech  (4124),235.0,567.0,Male,IIT
+IIT/Kharagpur,AI                   (4185),389.0,432.0,Male,IIT
+IIT/Hyderabad,AI                   (4185),313.0,405.0,Male,IIT
+IIT/Gandhinagar,AI                   (4185),640.0,1169.0,Male,IIT
+IIT/Patna,AI                   (4185),1352.0,1602.0,Male,IIT
+IIT/Patna,Maths & Compu (5609) / (5A09),1934.0,1953.0,Male,IIT
+IIT/Delhi,CSE  (5216),109.0,166.0,Male,IIT
+IIT/Roorkee,CSE  (5216),522.0,789.0,Male,IIT
+IIT/Ropar,AI & Data Engg.       (411G),1347.0,1812.0,Male,IIT
+IIT/Delhi,Maths & Compu Engg (5254),200.0,247.0,Male,IIT
+IIT/Patna,CSE & MTe CSE    (5A05),1409.0,1558.0,Male,IIT
+IIT/Bombay,Elect. Engg. (4111),106.0,281.0,Male,IIT
+IIT/Delhi,Elect. Engg. (4111),328.0,425.0,Male,IIT
+IIT/Kharagpur,Elect. Engg. (4111),734.0,946.0,Male,IIT
+IIT/Madras,Elect. Engg. (4111),144.0,377.0,Male,IIT
+IIT/Kanpur,Elect. Engg. (4111),431.0,693.0,Male,IIT
+IIT/Roorkee,Elect. Engg. (4111),763.0,1027.0,Male,IIT
+IIT/Hyderabad,Elect. Engg. (4111),404.0,894.0,Male,IIT
+IIT/BHU Varanasi,Elect. Engg. (4111),1197.0,1529.0,Male,IIT
+IIT/Ropar,Elect. Engg. (4111),1907.0,2807.0,Male,IIT
+IIT/Indore,Elect. Engg. (4111),817.0,1522.0,Male,IIT
+IIT/ISM Dhanbad,Elect. Engg. (4111),2174.0,2743.0,Male,IIT
+IIT/Gandhinagar,Elect. Engg. (4111),1515.0,1938.0,Male,IIT
+IIT/Jodhpur,Elect. Engg. (4111),2098.0,2983.0,Male,IIT
+IIT/Mandi,Elect. Engg. (4111),2182.0,3005.0,Male,IIT
+IIT/ Bhubneshwar,Elect. Engg. (4111),2394.0,2970.0,Male,IIT
+IIT/Tirupati,Elect. Engg. (4111),2493.0,3354.0,Male,IIT
+IIT/Jammu,Elect. Engg. (4111),3435.0,4230.0,Male,IIT
+IIT/Goa,Elect. Engg. (4111),3256.0,3804.0,Male,IIT
+IIT/Palakkad,Elect. Engg. (4111),2764.0,3719.0,Male,IIT
+IIT/Roorkee,ECE          (4114),374.0,752.0,Male,IIT
+IIT/Guwahati,ECE          (4114),770.0,899.0,Male,IIT
+IIT/ISM Dhanbad,ECE          (4114),4069.0,4767.0,Male,IIT
+IIT/Patna,ECE          (4114),1791.0,2297.0,Male,IIT
+IIT/ Bhubneshwar,ECE          (4114),1553.0,2132.0,Male,IIT
+IIT/Bhilai,ECE          (4114),2653.0,3498.0,Male,IIT
+IIT/Dharwad,ECE          (4114),3012.0,3441.0,Male,IIT
+IIT/Madras,Comp En & Mechs (412U),288.0,645.0,Male,IIT
+IISc./Banglore,Comp En & Mechs (412U),648.0,923.0,Male,IIT
+IIT/Kanpur,Data Sc. & AI (4181 / 4207),656.0,823.0,Male,IIT
+IIT/Roorkee,Data Sc. & AI (4181 / 4207),319.0,433.0,Male,IIT
+IIT/Guwahati,Data Sc. & AI (4181 / 4207),455.0,544.0,Male,IIT
+IIT/Mandi,Data Sc. & AI (4181 / 4207),1494.0,1850.0,Male,IIT
+IIT/Bhilai,Data Sc. & AI (4181 / 4207),2842.0,3112.0,Male,IIT
+IIT/Kanpur,Maths & Compu (4203),250.0,707.0,Male,IIT
+IIT/Delhi,Elect. Engg.  Power & Auto (4112),289.0,524.0,Male,IIT
+IIT/Kharagpur,Electron & Elec Eng   EEE (4115),429.0,735.0,Male,IIT
+IIT/Ropar,Elec Engg. Circuit & Tech (413B),2162.0,2283.0,Male,IIT
+IIT/Kharagpur,Maths & Compu SCI (4208),449.0,709.0,Male,IIT
+IIT/Hyderabad,Maths & Compu SCI (4208),251.0,440.0,Male,IIT
+IIT/Patna,Data Sc. & AI (4188),1352.0,1602.0,Male,IIT
+IIT/Jodhpur,Data Sc. & AI (4188),1377.0,1946.0,Male,IIT
+IIT/Guwahati,Electronics & Electrical     (4116),968.0,1060.0,Male,IIT
+IIT/Hyderabad,Computat Engg.    (410A),727.0,949.0,Male,IIT
+IIT/Bombay,Elect. Engg. (5217),296.0,545.0,Male,IIT
+IIT/Bhilai,Elect. Engg. (5217),3608.0,4369.0,Male,IIT
+IIT/Palakkad,Elect. Engg. (5217),2882.0,3699.0,Male,IIT
+IIT/Hyderabad,Elec Engg. IC design Tech.  (410T) / (412J),558.0,855.0,Male,IIT
+IIT/Gandhinagar,Elec Engg. IC design Tech.  (410T) / (412J),1664.0,2074.0,Male,IIT
+IIT/Bombay,Aerospace Engg. Space Sc.      (4101)/ (413I),517.0,1546.0,Male,IIT
+IIT/Kharagpur,Aerospace Engg. Space Sc.      (4101)/ (413I),2135.0,2423.0,Male,IIT
+IIT/Madras,Aerospace Engg. Space Sc.      (4101)/ (413I),816.0,1868.0,Male,IIT
+IIT/Kanpur,Aerospace Engg. Space Sc.      (4101)/ (413I),1723.0,2121.0,Male,IIT
+IIT/Indore,Aerospace Engg. Space Sc.      (4101)/ (413I),2869.0,3520.0,Male,IIT
+IISc./Banglore,Aerospace Engg. Space Sc.      (4101)/ (413I),1132.0,1942.0,Male,IIT
+IIT/Patna,Mch &MBA IIM Bomb    (5416)/ (5A10),,,Male,IIT
+IIT/Madras,Aerospace Engg.      (5201),1032.0,1456.0,Male,IIT
+IIT/Jodhpur,Aerospace Engg.      (5201),3030.0,4005.0,Male,IIT
+IIT/BHU Varanasi,Electronics Engg.       (4113),884.0,1189.0,Male,IIT
+IIT/Jodhpur,Electronics Engg.       (4113),2185.0,2770.0,Male,IIT
+IIT/Bombay,Energy Engg.     (4198),1363.0,1577.0,Male,IIT
+IIT/Delhi,Energy Engg.     (4198),1406.0,1821.0,Male,IIT
+IIT/Roorkee,Energy Engg.     (4198),2453.0,2536.0,Male,IIT
+IIT/Guwahati,Energy Engg.     (4198),2550.0,2821.0,Male,IIT
+IIT/Patna,Electrical  & Electro  (4144),2310.0,2817.0,Male,IIT
+IIT/Dharwad,Electrical  & Electro  (4144),3548.0,4026.0,Male,IIT
+IIT/Roorkee,Maths & Compu Sci (5606),522.0,789.0,Male,IIT
+IIT/Bombay,Engg. Physics    (4117),277.0,1162.0,Male,IIT
+IIT/Delhi,Engg. Physics    (4117),764.0,1679.0,Male,IIT
+IIT/Madras,Engg. Physics    (4117),486.0,756.0,Male,IIT
+IIT/Roorkee,Engg. Physics    (4117),1926.0,2356.0,Male,IIT
+IIT/Guwahati,Engg. Physics    (4117),2041.0,3122.0,Male,IIT
+IIT/Hyderabad,Engg. Physics    (4117),1306.0,1994.0,Male,IIT
+IIT/BHU Varanasi,Engg. Physics    (4117),3220.0,3620.0,Male,IIT
+IIT/Ropar,Engg. Physics    (4117),4346.0,4557.0,Male,IIT
+IIT/Indore,Engg. Physics    (4117),3323.0,3720.0,Male,IIT
+IIT/ISM Dhanbad,Engg. Physics    (4117),3831.0,4499.0,Male,IIT
+IIT/Patna,Engg. Physics    (4117),4104.0,4785.0,Male,IIT
+IIT/Jodhpur,Engg. Physics    (4117),4462.0,5465.0,Male,IIT
+IIT/Mandi,Engg. Physics    (4117),4480.0,5041.0,Male,IIT
+IIT/ Bhubneshwar,Engg. Physics    (4117),4399.0,4967.0,Male,IIT
+IIT/Tirupati,Engg. Physics    (4117),4802.0,5019.0,Male,IIT
+IIT/Jammu,Engg. Physics    (4117),5501.0,6136.0,Male,IIT
+IIT/Dharwad,Engg. Physics    (4117),5022.0,5775.0,Male,IIT
+IIT/Bombay,Chemical Engg   (4107),762.0,1354.0,Male,IIT
+IIT/Delhi,Chemical Engg   (4107),1019.0,1452.0,Male,IIT
+IIT/Kharagpur,Chemical Engg   (4107),2061.0,2501.0,Male,IIT
+IIT/Madras,Chemical Engg   (4107),1353.0,1944.0,Male,IIT
+IIT/Kanpur,Chemical Engg   (4107),1609.0,2148.0,Male,IIT
+IIT/Roorkee,Chemical Engg   (4107),1973.0,2449.0,Male,IIT
+IIT/Guwahati,Chemical Engg   (4107),2160.0,2844.0,Male,IIT
+IIT/Hyderabad,Chemical Engg   (4107),1974.0,2270.0,Male,IIT
+IIT/BHU Varanasi,Chemical Engg   (4107),2851.0,3609.0,Male,IIT
+IIT/Ropar,Chemical Engg   (4107),3953.0,4517.0,Male,IIT
+IIT/Indore,Chemical Engg   (4107),3443.0,3666.0,Male,IIT
+IIT/ISM Dhanbad,Chemical Engg   (4107),3792.0,4592.0,Male,IIT
+IIT/Gandhinagar,Chemical Engg   (4107),3172.0,3957.0,Male,IIT
+IIT/Patna,Chemical Engg   (4107),3756.0,4931.0,Male,IIT
+IIT/Jodhpur,Chemical Engg   (4107),4206.0,4977.0,Male,IIT
+IIT/Tirupati,Chemical Engg   (4107),4810.0,5642.0,Male,IIT
+IIT/Jammu,Chemical Engg   (4107),5218.0,5905.0,Male,IIT
+IIT/Bombay,Mechanical Engg.  (4125),489.0,1048.0,Male,IIT
+IIT/Delhi,Mechanical Engg.  (4125),811.0,1090.0,Male,IIT
+IIT/Kharagpur,Mechanical Engg.  (4125),1257.0,1875.0,Male,IIT
+IIT/Madras,Mechanical Engg.  (4125),673.0,1218.0,Male,IIT
+IIT/Kanpur,Mechanical Engg.  (4125),972.0,1578.0,Male,IIT
+IIT/Roorkee,Mechanical Engg.  (4125),1040.0,1969.0,Male,IIT
+IIT/Guwahati,Mechanical Engg.  (4125),1981.0,2333.0,Male,IIT
+IIT/Hyderabad,Mechanical Engg.  (4125),1310.0,2008.0,Male,IIT
+IIT/BHU Varanasi,Mechanical Engg.  (4125),2146.0,3175.0,Male,IIT
+IIT/Ropar,Mechanical Engg.  (4125),3276.0,4096.0,Male,IIT
+IIT/Indore,Mechanical Engg.  (4125),2375.0,3178.0,Male,IIT
+IIT/ISM Dhanbad,Mechanical Engg.  (4125),3196.0,3959.0,Male,IIT
+IIT/Gandhinagar,Mechanical Engg.  (4125),2553.0,3477.0,Male,IIT
+IIT/Patna,Mechanical Engg.  (4125),1302.0,1923.0,Male,IIT
+IIT/Jodhpur,Mechanical Engg.  (4125),3138.0,4279.0,Male,IIT
+IIT/Mandi,Mechanical Engg.  (4125),3304.0,4459.0,Male,IIT
+IIT/ Bhubneshwar,Mechanical Engg.  (4125),3454.0,4352.0,Male,IIT
+IIT/Tirupati,Mechanical Engg.  (4125),3939.0,4473.0,Male,IIT
+IIT/Jammu,Mechanical Engg.  (4125),4573.0,5426.0,Male,IIT
+IIT/Goa,Mechanical Engg.  (4125),4663.0,5287.0,Male,IIT
+IIT/Bhilai,Mechanical Engg.  (4125),4555.0,5514.0,Male,IIT
+IIT/Palakkad,Mechanical Engg.  (4125),4064.0,4721.0,Male,IIT
+IIT/Dharwad,Mechanical Engg.  (4125),4179.0,5570.0,Male,IIT
+IIT/Bombay,Instrumentation Engg.       (4121) Indust (412I),350.0,864.0,Male,IIT
+IIT/Kharagpur,Instrumentation Engg.       (4121) Indust (412I),966.0,1348.0,Male,IIT
+IIT/Delhi,Engg. & Computational Engg (4192),578.0,783.0,Male,IIT
+IIT/Delhi,Production & Industrial Eng (4136) Mechat engg (4178),1325.0,2207.0,Male,IIT
+IIT/Roorkee,Production & Industrial Eng (4136) Mechat engg (4178),2317.0,3027.0,Male,IIT
+IIT/Bhilai,Production & Industrial Eng (4136) Mechat engg (4178),4453.0,4885.0,Male,IIT
+IIT/Bombay,Civil Engg. (4109),1023.0,2025.0,Male,IIT
+IIT/Delhi,Civil Engg. (4109),1510.0,2318.0,Male,IIT
+IIT/Kharagpur,Civil Engg. (4109),2335.0,3271.0,Male,IIT
+IIT/Madras,Civil Engg. (4109),2094.0,2644.0,Male,IIT
+IIT/Kanpur,Civil Engg. (4109),2488.0,3058.0,Male,IIT
+IIT/Roorkee,Civil Engg. (4109),2396.0,3084.0,Male,IIT
+IIT/Guwahati,Civil Engg. (4109),3092.0,3639.0,Male,IIT
+IIT/Hyderabad,Civil Engg. (4109),2125.0,3370.0,Male,IIT
+IIT/BHU Varanasi,Civil Engg. (4109),3460.0,3980.0,Male,IIT
+IIT/Ropar,Civil Engg. (4109),3983.0,4649.0,Male,IIT
+IIT/Indore,Civil Engg. (4109),3349.0,4081.0,Male,IIT
+IIT/ISM Dhanbad,Civil Engg. (4109),4234.0,4812.0,Male,IIT
+IIT/Gandhinagar,Civil Engg. (4109),3818.0,4256.0,Male,IIT
+IIT/Patna,Civil Engg. (4109),4657.0,5370.0,Male,IIT
+IIT/Mandi,Civil Engg. (4109),4765.0,5432.0,Male,IIT
+IIT/ Bhubneshwar,Civil Engg. (4109),,,Male,IIT
+IIT/Tirupati,Civil Engg. (4109),5374.0,5835.0,Male,IIT
+IIT/Jammu,Civil Engg. (4109),5428.0,6065.0,Male,IIT
+IIT/Palakkad,Civil Engg. (4109),5108.0,6072.0,Male,IIT
+IIT/Patna,ECE & MTe Communic (521Q) / VLSI (5A06),,,Male,IIT
+IIT/Kanpur,Material Sc & Engg.          (4123) /411D / (412O),2726.0,3149.0,Male,IIT
+IIT/BHU Varanasi,Material Sc & Engg.          (4123) /411D / (412O),3670.0,4257.0,Male,IIT
+IIT/Mandi,Material Sc & Engg.          (4123) /411D / (412O),4564.0,5734.0,Male,IIT
+IIT/Palakkad,Material Sc & Engg.          (4123) /411D / (412O),5592.0,6216.0,Male,IIT
+IISc./Banglore,Material Sc & Engg.          (4123) /411D / (412O),1563.0,2323.0,Male,IIT
+IIT/Kharagpur,Metallurg & Material SC   (4127)/(4161),2984.0,3584.0,Male,IIT
+IIT/Madras,Metallurg & Material SC   (4127)/(4161),2245.0,2499.0,Male,IIT
+IIT/Roorkee,Metallurg & Material SC   (4127)/(4161),2808.0,3585.0,Male,IIT
+IIT/Hyderabad,Metallurg & Material SC   (4127)/(4161),2707.0,3329.0,Male,IIT
+IIT/Ropar,Metallurg & Material SC   (4127)/(4161),4836.0,5490.0,Male,IIT
+IIT/Patna,Metallurg & Material SC   (4127)/(4161),5248.0,5848.0,Male,IIT
+IIT/ Bhubneshwar,Metallurg & Material SC   (4127)/(4161),4913.0,5825.0,Male,IIT
+IIT/Bhilai,Metallurg & Material SC   (4127)/(4161),5557.0,6105.0,Male,IIT
+IIT/BHU Varanasi,Metallurgic Engg.     (4126) /Minaral (4189),3679.0,4494.0,Male,IIT
+IIT/ISM Dhanbad,Metallurgic Engg.     (4126) /Minaral (4189),4489.0,5669.0,Male,IIT
+IIT/Bombay,Metallurgical Engg & Mat Sc  (4128),1649.0,2289.0,Male,IIT
+IIT/Indore,Metallurgical Engg & Mat Sc  (4128),4084.0,4637.0,Male,IIT
+IIT/Delhi,Chemical Engg.       (5210),1539.0,2198.0,Male,IIT
+IIT/Patna,EEE & MTe Power cont    (5A07),2900.0,3485.0,Male,IIT
+IIT/Mandi,Maths & Computing (411F),1391.0,1920.0,Male,IIT
+IIT/Patna,Btech AI & MBA Gaya (5414),2608.0,2608.0,Male,IIT
+IIT/Bombay,BS in Maths     (4206),667.0,886.0,Male,IIT
+IIT/Dharwad,BS in Maths     (4206),5657.0,6017.0,Male,IIT
+IIT/Delhi,Material Sc./ Engg.   (4193),1952.0,2359.0,Male,IIT
+IIT/Gandhinagar,Material Sc./ Engg.   (4193),4390.0,5156.0,Male,IIT
+IIT/Jodhpur,Material Sc./ Engg.   (4193),5037.0,5948.0,Male,IIT
+IIT/Jammu,Material Sc./ Engg.   (4193),6036.0,6266.0,Male,IIT
+IIT/Kharagpur,Idustrial Sc. & Engg.            (4170)/(410B)  (410D),1475.0,2278.0,Male,IIT
+IIT/Hyderabad,Idustrial Sc. & Engg.            (4170)/(410B)  (410D),2639.0,3602.0,Male,IIT
+IIT/BHU Varanasi,Idustrial Sc. & Engg.            (4170)/(410B)  (410D),4497.0,4681.0,Male,IIT
+IIT/Dharwad,Idustrial Sc. & Engg.            (4170)/(410B)  (410D),5564.0,6021.0,Male,IIT
+IIT/Kharagpur,Manufacturi Sci. & Engg. (4122),2732.0,3361.0,Male,IIT
+IIT/Madras,Engg Design (5227),746.0,1322.0,Male,IIT
+IIT/Kharagpur,Physics           (4204)/ Quantum Sci and Engg./ Unified Engg,3746.0,5182.0,Male,IIT
+IIT/Madras,Physics           (4204)/ Quantum Sci and Engg./ Unified Engg,2100.0,2327.0,Male,IIT
+IIT/Kanpur,Physics           (4204)/ Quantum Sci and Engg./ Unified Engg,2805.0,4365.0,Male,IIT
+IIT/Mandi,Physics           (4204)/ Quantum Sci and Engg./ Unified Engg,2254.0,3219.0,Male,IIT
+IIT/Jammu,Physics           (4204)/ Quantum Sci and Engg./ Unified Engg,4147.0,5994.0,Male,IIT
+IIT/Dharwad,Physics           (4204)/ Quantum Sci and Engg./ Unified Engg,6037.0,6372.0,Male,IIT
+IIT/Madras,Biological Engg (411 N) Biochem/ Biomed (412M)/ (412V),2032.0,3111.0,Male,IIT
+IIT/BHU Varanasi,Biological Engg (411 N) Biochem/ Biomed (412M)/ (412V),,,Male,IIT
+IIT/Jodhpur,Biological Engg (411 N) Biochem/ Biomed (412M)/ (412V),5034.0,6116.0,Male,IIT
+IIT/Madras,Naval Arch & ocean Engg   (4132),2226.0,3215.0,Male,IIT
+IIT/Madras,Biological Sc. (4214/ 4103),4328.0,4969.0,Male,IIT
+IIT/Kanpur,Biological Sc. (4214/ 4103),3222.0,3688.0,Male,IIT
+IIT/Delhi,Textile Tech. (4139)/ Ceramic (4106),2569.0,3313.0,Male,IIT
+IIT/BHU Varanasi,Textile Tech. (4139)/ Ceramic (4106),4044.0,4990.0,Male,IIT
+IIT/Jodhpur,Civil Engg & Infrastruc.    (4141),3793.0,4930.0,Male,IIT
+IIT/Dharwad,Civil Engg & Infrastruc.    (4141),5766.0,6129.0,Male,IIT
+IIT/Patna,BT Civil & structural (5A04),5569.0,5585.0,Male,IIT
+IIT/Kharagpur,Architect (5101),6975.0,7973.0,Male,IIT
+IIT/Roorkee,Architect (5101),5821.0,7464.0,Male,IIT
+IIT/BHU Varanasi,Architect (5101),8415.0,9002.0,Male,IIT
+IIT/Bombay,Chemistry     (4201)   Petroleum Engg (4134),3065.0,4062.0,Male,IIT
+IIT/Delhi,Chemistry     (4201)   Petroleum Engg (4134),4233.0,4691.0,Male,IIT
+IIT/Kharagpur,Chemistry     (4201)   Petroleum Engg (4134),5172.0,5798.0,Male,IIT
+IIT/Kanpur,Chemistry     (4201)   Petroleum Engg (4134),4371.0,4997.0,Male,IIT
+IIT/ISM Dhanbad,Chemistry     (4201)   Petroleum Engg (4134),4068.0,4987.0,Male,IIT
+IIT/Patna,Chemistry     (4201)   Petroleum Engg (4134),6259.0,6357.0,Male,IIT
+IIT/Bombay,Economics    (4202)/ (5608) / MBA BG (5F0A),882.0,1449.0,Male,IIT
+IIT/Kharagpur,Economics    (4202)/ (5608) / MBA BG (5F0A),2563.0,3213.0,Male,IIT
+IIT/Kanpur,Economics    (4202)/ (5608) / MBA BG (5F0A),1499.0,2338.0,Male,IIT
+IIT/Roorkee,Economics    (4202)/ (5608) / MBA BG (5F0A),2721.0,3410.0,Male,IIT
+IIT/Patna,Economics    (4202)/ (5608) / MBA BG (5F0A),,,Male,IIT
+IIT/Delhi,Bio Tech & Bio Engg.  (4105)/(4199) (4173),1950.0,3035.0,Male,IIT
+IIT/Hyderabad,Bio Tech & Bio Engg.  (4105)/(4199) (4173),3244.0,3644.0,Male,IIT
+IIT/BHU Varanasi,Bio Tech & Bio Engg.  (4105)/(4199) (4173),4501.0,5156.0,Male,IIT
+IIT/Bombay,Environment Sc.  (410U)  Engg (4119),2055.0,2648.0,Male,IIT
+IIT/ISM Dhanbad,Environment Sc.  (410U)  Engg (4119),5216.0,6075.0,Male,IIT
+IIT/Bombay,Applied Engg & Geo Phy     (4215),3217.0,3641.0,Male,IIT
+IIT/Kharagpur,Exploration Geophysics (4210 / Biotech 4205)Earth Sc,,,Male,IIT
+IIT/Kanpur,Exploration Geophysics (4210 / Biotech 4205)Earth Sc,3877.0,4992.0,Male,IIT
+IIT/Patna,B Tech Comp Sc. & MBA BG   (5408),1813.0,1813.0,Male,IIT
+IIT/Patna,B Tech EEE & MBA BG   (5413),3315.0,3315.0,Male,IIT
+IIT/Guwahati,Chemical Sci (4108)   / (5H2B)/ (4212),2883.0,3502.0,Male,IIT
+IIT/ISM Dhanbad,Chemical Sci (4108)   / (5H2B)/ (4212),5960.0,6218.0,Male,IIT
+IIT/Patna,Chemical Sci (4108)   / (5H2B)/ (4212),5122.0,5683.0,Male,IIT
+IIT/Mandi,Chemical Sci (4108)   / (5H2B)/ (4212),6078.0,6312.0,Male,IIT
+IIT/Patna,B Tech ECE & MBA BG   (5409),2825.0,2825.0,Male,IIT
+IIT/Patna,B Tech Chem Sc. & MBA BG   (5406),5525.0,5525.0,Male,IIT
+IIT/Patna,B Tech civil  & MBA BG   (5407) / CE + Geot (5A03),,,Male,IIT
+IIT/Patna,B Tech Engg phy  & MBA BG   (5410),5687.0,5687.0,Male,IIT
+IIT/Patna,B Tech metall & MBA BG   (5412),5926.0,5926.0,Male,IIT
+IIT/Palakkad,Data Sc. & Engg.     (4187) ,2364.0,3230.0,Male,IIT
+IIT/Roorkee,Physics   (5602) Physical Sci (5H0A)/ (4211),3934.0,5117.0,Male,IIT
+IIT/ISM Dhanbad,Physics   (5602) Physical Sci (5H0A)/ (4211),5580.0,6264.0,Male,IIT
+IIT/Roorkee,Chemical Sc. (5607) Applied Geophy (5307),3295.0,5241.0,Male,IIT
+IIT/ISM Dhanbad,Chemical Sc. (5607) Applied Geophy (5307),5960.0,6218.0,Male,IIT
+IIT/Roorkee,Geological Tech(5302) Min + MBA (5C02),4009.0,4545.0,Male,IIT
+IIT/ISM Dhanbad,Geological Tech(5302) Min + MBA (5C02),5955.0,6202.0,Male,IIT
+IIT/Delhi,Design       (412T),3916.0,5459.0,Male,IIT
+IIT/Madras,Bio. Engg.   (4143) /(412N)Bio Sc. (4194)/ Biochem (4191),2032.0,3111.0,Male,IIT
+IIT/Roorkee,Bio. Engg.   (4143) /(412N)Bio Sc. (4194)/ Biochem (4191),3162.0,3789.0,Male,IIT
+IIT/Guwahati,Bio. Engg.   (4143) /(412N)Bio Sc. (4194)/ Biochem (4191),3921.0,4389.0,Male,IIT
+IIT/Hyderabad,Bio. Engg.   (4143) /(412N)Bio Sc. (4194)/ Biochem (4191),3244.0,3644.0,Male,IIT
+IIT/BHU Varanasi,Bio. Engg.   (4143) /(412N)Bio Sc. (4194)/ Biochem (4191),4790.0,5067.0,Male,IIT
+IIT/Jodhpur,Bio. Engg.   (4143) /(412N)Bio Sc. (4194)/ Biochem (4191),5034.0,6116.0,Male,IIT
+IIT/Kharagpur,Agriculture & Food Tech.   (4102) /(412W),3642.0,4671.0,Male,IIT
+IIT/Ropar,Agriculture & Food Tech.   (4102) /(412W),4401.0,5699.0,Male,IIT
+IIT/Mandi,Agriculture & Food Tech.   (4102) /(412W),4814.0,5705.0,Male,IIT
+IIT/Kharagpur,Mining Engg. (4130)/ Space Engg/ Machin (4131),3596.0,4047.0,Male,IIT
+IIT/BHU Varanasi,Mining Engg. (4130)/ Space Engg/ Machin (4131),4145.0,5329.0,Male,IIT
+IIT/ISM Dhanbad,Mining Engg. (4130)/ Space Engg/ Machin (4131),,,Male,IIT
+IIT/Mandi,B.Tech in Microelectro (411E),2070.0,2543.0,Male,IIT
+IIT/Mandi,B.Tech in Gen. Engg.    (410Y),3357.0,4208.0,Male,IIT
+IIT/Mandi,BS in Chemical Sc.   (4213),5718.0,6092.0,Male,IIT
+IIT/Kharagpur,Ocean & Naval Engg.   (4133),3385.0,4173.0,Male,IIT
+IIT/Roorkee,Geophysical Sc. (5303) Applied Geol (5306),2386.0,4080.0,Male,IIT
+IIT/ISM Dhanbad,Geophysical Sc. (5303) Applied Geol (5306),5653.0,6155.0,Male,IIT
+IIT/Hyderabad,Engg. Sci. (4118),1098.0,1299.0,Male,IIT
+"NIT, Tiruchirappalli",CSE (4),932.0,956.0,Female,NIT
+"NIT Karnataka, Surathkal",CSE (4),1289.0,1582.0,Female,NIT
+"NIT, Warangal",CSE (4),1105.0,2206.0,Female,NIT
+"NIT, Rourkela",CSE (4),2414.0,3329.0,Female,NIT
+Motilal Nehru NIT Allahabad,CSE (4),3599.0,5204.0,Female,NIT
+NIT Calicut,CSE (4),2449.0,3736.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",CSE (4),4216.0,4758.0,Female,NIT
+Malaviya NIT Jaipur,CSE (4),3483.0,4799.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,CSE (4),5159.0,7364.0,Female,NIT
+Maulana Azad NIT Bhopal,CSE (4),4823.0,7421.0,Female,NIT
+NIT Durgapur,CSE (4),5773.0,8723.0,Female,NIT
+"NIT, Kurukshetra",CSE (4),5615.0,6449.0,Female,NIT
+"NIT, Jamshedpur",CSE (4),6775.0,7152.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",CSE (4),7805.0,8368.0,Female,NIT
+NIT Hamirpur,CSE (4),8452.0,10515.0,Female,NIT
+NIT Goa,CSE (4),10816.0,11261.0,Female,NIT
+NIT Delhi,CSE (4),6073.0,6463.0,Female,NIT
+NIT Raipur,CSE (4),8681.0,10424.0,Female,NIT
+"NIT, Shilchar",CSE (4),7361.0,10910.0,Female,NIT
+NIT Patna (HS/OBC),CSE (4),8143.0,10204.0,Female,NIT
+"NIT, Andhra Pradesh",CSE (4),9893.0,11320.0,Female,NIT
+NIT Puducherry,CSE (4),2.0,4.0,Female,NIT
+"NIT, Uttarakhand",CSE (4),11546.0,13248.0,Female,NIT
+NIT Meghalaya,CSE (4),6367.0,7313.0,Female,NIT
+NIT Sikkim,CSE (4),8238.0,8827.0,Female,NIT
+NIT Arunachal Pradesh,CSE (4),9443.0,9908.0,Female,NIT
+"IIEST,Shibpur",CSE (4),5381.0,5990.0,Female,NIT
+"NIT, Manipur",CSE (4),9699.0,11948.0,Female,NIT
+"NIT, Srinagar",CSE (4),7134.0,8325.0,Female,NIT
+"NIT, Agartalla",CSE (4),12987.0,13987.0,Female,NIT
+"NIT Karnataka, Surathkal",AI (4),2777.0,3097.0,Female,NIT
+"NIT, Rourkela",AI (4),4000.0,4096.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",AI (4),4216.0,4758.0,Female,NIT
+Malaviya NIT Jaipur,AI (4),3044.0,3044.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,AI (4),7025.0,8844.0,Female,NIT
+"NIT, Kurukshetra",AI (4),7902.0,8717.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",AI (4),9495.0,9495.0,Female,NIT
+NIT Delhi,AI (4),6828.0,6828.0,Female,NIT
+NIT Patna (HS/OBC),AI (4),11465.0,11534.0,Female,NIT
+NIT Sikkim,AI (4),8828.0,9296.0,Female,NIT
+"NIT, Warangal",Maths & comp. (4),3311.0,3311.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Maths & comp. (4),7500.0,7500.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,Maths & comp. (4),7477.0,7477.0,Female,NIT
+NIT Durgapur,Maths & comp. (4),8627.0,9249.0,Female,NIT
+"NIT, Kurukshetra",Maths & comp. (4),7098.0,7098.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Maths & comp. (4),11835.0,12410.0,Female,NIT
+NIT Hamirpur,Maths & comp. (4),13147.0,13337.0,Female,NIT
+"NIT Karnataka, Surathkal",IT (4),2461.0,3037.0,Female,NIT
+"NIT, Kurukshetra",IT (4),7175.0,7175.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",IT (4),9076.0,9076.0,Female,NIT
+NIT Raipur,IT (4),11531.0,11836.0,Female,NIT
+"NIT Karnataka, Surathkal",Data Sci./ Engg & Comp Mech (4),3701.0,3701.0,Female,NIT
+Motilal Nehru NIT Allahabad,Data Sci./ Engg & Comp Mech (4),9516.0,9516.0,Female,NIT
+NIT Hamirpur,CSE (5),10846.0,11115.0,Female,NIT
+NIT Patna (HS/OBC),CSE (5),15108.0,15108.0,Female,NIT
+Maulana Azad NIT Bhopal,Maths & Data Sc (5),11468.0,11468.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Electronics & VLSI (4),7983.0,8228.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,Electronics & VLSI (4),9864.0,9864.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Electronics & VLSI (4),12187.0,12187.0,Female,NIT
+NIT Patna (HS/OBC),Electronics & VLSI (4),17206.0,18151.0,Female,NIT
+"NIT, Tiruchirappalli",ECE (4),2249.0,2904.0,Female,NIT
+"NIT Karnataka, Surathkal",ECE (4),3489.0,4104.0,Female,NIT
+"NIT, Warangal",ECE (4),3497.0,4175.0,Female,NIT
+"NIT, Rourkela",ECE (4),4639.0,4639.0,Female,NIT
+Motilal Nehru NIT Allahabad,ECE (4),5335.0,7240.0,Female,NIT
+NIT Calicut,ECE (4),4441.0,5290.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",ECE (4),6217.0,6614.0,Female,NIT
+Malaviya NIT Jaipur,ECE (4),5109.0,6857.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,ECE (4),8054.0,9797.0,Female,NIT
+Maulana Azad NIT Bhopal,ECE (4),9270.0,9839.0,Female,NIT
+NIT Durgapur,ECE (4),9628.0,10602.0,Female,NIT
+"NIT, Kurukshetra",ECE (4),9431.0,9603.0,Female,NIT
+"NIT, Jamshedpur",ECE (4),8324.0,8999.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",ECE (4),9888.0,9888.0,Female,NIT
+NIT Hamirpur,ECE (4),10758.0,12337.0,Female,NIT
+NIT Goa,ECE (4),10837.0,10837.0,Female,NIT
+NIT Raipur,ECE (4),12126.0,12626.0,Female,NIT
+"NIT, Shilchar",ECE (4),11153.0,13060.0,Female,NIT
+NIT Patna (HS/OBC),ECE (4),11663.0,12371.0,Female,NIT
+"NIT, Andhra Pradesh",ECE (4),11224.0,13425.0,Female,NIT
+NIT Puducherry,ECE (4),,,Female,NIT
+"NIT, Uttarakhand",ECE (4),15896.0,15896.0,Female,NIT
+NIT Meghalaya,ECE (4),9155.0,9594.0,Female,NIT
+NIT Sikkim,ECE (4),10505.0,11076.0,Female,NIT
+NIT Arunachal Pradesh,ECE (4),12122.0,12571.0,Female,NIT
+"NIT, Manipur",ECE (4),21114.0,21114.0,Female,NIT
+"NIT, Srinagar",ECE (4),10428.0,11380.0,Female,NIT
+"NIT, Agartalla",ECE (4),15374.0,17705.0,Female,NIT
+"NIT, Tiruchirappalli",EEE (4),4745.0,4981.0,Female,NIT
+"NIT Karnataka, Surathkal",EEE (4),5915.0,6101.0,Female,NIT
+"NIT, Warangal",EEE (4),7066.0,7066.0,Female,NIT
+NIT Calicut,EEE (4),7160.0,8429.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",EEE (4),9176.0,10584.0,Female,NIT
+NIT Goa,EEE (4),13235.0,13235.0,Female,NIT
+"NIT, Andhra Pradesh",EEE (4),14197.0,15259.0,Female,NIT
+NIT Meghalaya,EEE (4),1249.0,13601.0,Female,NIT
+NIT Sikkim,EEE (4),12715.0,12767.0,Female,NIT
+"NIT, Rourkela",Electrical (4),7050.0,7591.0,Female,NIT
+Motilal Nehru NIT Allahabad,Electrical (4),8278.0,8886.0,Female,NIT
+Malaviya NIT Jaipur,Electrical (4),8465.0,9212.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,Electrical (4),10522.0,11850.0,Female,NIT
+Maulana Azad NIT Bhopal,Electrical (4),11705.0,11705.0,Female,NIT
+NIT Durgapur,Electrical (4),11783.0,11821.0,Female,NIT
+"NIT, Kurukshetra",Electrical (4),13135.0,13774.0,Female,NIT
+"NIT, Jamshedpur",Electrical (4),9419.0,12704.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Electrical (4),12868.0,12868.0,Female,NIT
+NIT Hamirpur,Electrical (4),13567.0,15060.0,Female,NIT
+NIT Delhi,Electrical (4),9047.0,9047.0,Female,NIT
+NIT Raipur,Electrical (4),15655.0,15967.0,Female,NIT
+"NIT, Shilchar",Electrical (4),14075.0,15562.0,Female,NIT
+NIT Patna (HS/OBC),Electrical (4),15438.0,16028.0,Female,NIT
+NIT Arunachal Pradesh,Electrical (4),14104.0,14893.0,Female,NIT
+"NIT, Manipur",Electrical (4),15683.0,16019.0,Female,NIT
+"NIT, Agartalla",Electrical (4),18533.0,21189.0,Female,NIT
+"NIT, Shilchar",Elect & Instru. (4),14204.0,16046.0,Female,NIT
+"NIT, Agartalla",Elect & Instru. (4),18054.0,21304.0,Female,NIT
+NIT Hamirpur,ECE (5),14513.0,14513.0,Female,NIT
+"NIT, Tiruchirappalli",Chemical engg. (4),8677.0,8677.0,Female,NIT
+"NIT Karnataka, Surathkal",Chemical engg. (4),8704.0,8895.0,Female,NIT
+"NIT, Warangal",Chemical engg. (4),9056.0,9109.0,Female,NIT
+"NIT, Rourkela",Chemical engg. (4),9832.0,10686.0,Female,NIT
+Motilal Nehru NIT Allahabad,Chemical engg. (4),11496.0,11496.0,Female,NIT
+NIT Calicut,Chemical engg. (4),12271.0,13412.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Chemical engg. (4),14074.0,15680.0,Female,NIT
+Malaviya NIT Jaipur,Chemical engg. (4),13069.0,15614.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,Chemical engg. (4),14297.0,18372.0,Female,NIT
+Maulana Azad NIT Bhopal,Chemical engg. (4),16459.0,17883.0,Female,NIT
+NIT Durgapur,Chemical engg. (4),16430.0,18490.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Chemical engg. (4),17551.0,18903.0,Female,NIT
+NIT Hamirpur,Chemical engg. (4),20415.0,20902.0,Female,NIT
+NIT Raipur,Chemical engg. (4),18849.0,19175.0,Female,NIT
+NIT Patna (HS/OBC),Chemical engg. (4),24725.0,24725.0,Female,NIT
+"NIT, Andhra Pradesh",Chemical engg. (4),15437.0,15437.0,Female,NIT
+"NIT, Agartalla",Chemical engg. (4),23696.0,24132.0,Female,NIT
+"NIT, Tiruchirappalli",Mech. Engg (4),4511.0,6403.0,Female,NIT
+"NIT Karnataka, Surathkal",Mech. Engg (4),6453.0,7636.0,Female,NIT
+"NIT, Warangal",Mech. Engg (4),8460.0,8828.0,Female,NIT
+"NIT, Rourkela",Mech. Engg (4),8015.0,9740.0,Female,NIT
+Motilal Nehru NIT Allahabad,Mech. Engg (4),10341.0,15246.0,Female,NIT
+NIT Calicut,Mech. Engg (4),8458.0,11162.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Mech. Engg (4),11537.0,14658.0,Female,NIT
+Malaviya NIT Jaipur,Mech. Engg (4),9772.0,16377.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,Mech. Engg (4),15128.0,17193.0,Female,NIT
+Maulana Azad NIT Bhopal,Mech. Engg (4),15527.0,17774.0,Female,NIT
+NIT Durgapur,Mech. Engg (4),17572.0,18758.0,Female,NIT
+"NIT, Kurukshetra",Mech. Engg (4),14782.0,17719.0,Female,NIT
+"NIT, Jamshedpur",Mech. Engg (4),16895.0,17924.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Mech. Engg (4),17976.0,18697.0,Female,NIT
+NIT Hamirpur,Mech. Engg (4),18440.0,20365.0,Female,NIT
+NIT Goa,Mech. Engg (4),15288.0,15288.0,Female,NIT
+NIT Delhi,Mech. Engg (4),14036.0,14201.0,Female,NIT
+NIT Raipur,Mech. Engg (4),10941.0,12373.0,Female,NIT
+"NIT, Shilchar",Mech. Engg (4),18542.0,20115.0,Female,NIT
+NIT Patna (HS/OBC),Mech. Engg (4),19308.0,20243.0,Female,NIT
+"NIT, Andhra Pradesh",Mech. Engg (4),17575.0,15575.0,Female,NIT
+NIT Meghalaya,Mech. Engg (4),14433.0,14453.0,Female,NIT
+NIT Sikkim,Mech. Engg (4),14638.0,15295.0,Female,NIT
+NIT Arunachal Pradesh,Mech. Engg (4),15155.0,16768.0,Female,NIT
+"NIT, Manipur",Mech. Engg (4),10171.0,17549.0,Female,NIT
+"NIT, Agartalla",Mech. Engg (4),21566.0,22350.0,Female,NIT
+"NIT, Tiruchirappalli",Civil Engg. (4),10224.0,11884.0,Female,NIT
+"NIT Karnataka, Surathkal",Civil Engg. (4),9757.0,13515.0,Female,NIT
+"NIT, Warangal",Civil Engg. (4),13888.0,14338.0,Female,NIT
+"NIT, Rourkela",Civil Engg. (4),13299.0,14484.0,Female,NIT
+Motilal Nehru NIT Allahabad,Civil Engg. (4),15456.0,16753.0,Female,NIT
+NIT Calicut,Civil Engg. (4),13834.0,14764.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Civil Engg. (4),17366.0,18934.0,Female,NIT
+Malaviya NIT Jaipur,Civil Engg. (4),17607.0,18015.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,Civil Engg. (4),17940.0,19776.0,Female,NIT
+Maulana Azad NIT Bhopal,Civil Engg. (4),20693.0,21412.0,Female,NIT
+NIT Durgapur,Civil Engg. (4),19569.0,21357.0,Female,NIT
+"NIT, Kurukshetra",Civil Engg. (4),19613.0,19814.0,Female,NIT
+"NIT, Jamshedpur",Civil Engg. (4),19299.0,20441.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Civil Engg. (4),20161.0,20571.0,Female,NIT
+NIT Hamirpur,Civil Engg. (4),20725.0,21752.0,Female,NIT
+NIT Goa,Civil Engg. (4),17561.0,17561.0,Female,NIT
+NIT Raipur,Civil Engg. (4),20634.0,21374.0,Female,NIT
+"NIT, Shilchar",Civil Engg. (4),21593.0,23192.0,Female,NIT
+NIT Patna (HS/OBC),Civil Engg. (4),20938.0,22397.0,Female,NIT
+"NIT, Andhra Pradesh",Civil Engg. (4),21328.0,21328.0,Female,NIT
+"NIT, Uttarakhand",Civil Engg. (4),24145.0,24145.0,Female,NIT
+NIT Meghalaya,Civil Engg. (4),26785.0,26785.0,Female,NIT
+NIT Sikkim,Civil Engg. (4),17975.0,18159.0,Female,NIT
+NIT Arunachal Pradesh,Civil Engg. (4),18313.0,19095.0,Female,NIT
+"NIT, Manipur",Civil Engg. (4),18601.0,19259.0,Female,NIT
+"NIT, Agartalla",Civil Engg. (4),12147.0,14159.0,Female,NIT
+"NIT, Tiruchirappalli",Mettalargical & Material . (4),11667.0,11667.0,Female,NIT
+"NIT Karnataka, Surathkal",Mettalargical & Material . (4),12081.0,13237.0,Female,NIT
+"NIT, Warangal",Mettalargical & Material . (4),14859.0,14859.0,Female,NIT
+"NIT, Rourkela",Mettalargical & Material . (4),15007.0,15392.0,Female,NIT
+Motilal Nehru NIT Allahabad,Mettalargical & Material . (4),17996.0,17996.0,Female,NIT
+NIT Calicut,Mettalargical & Material . (4),14527.0,14527.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Mettalargical & Material . (4),19137.0,19538.0,Female,NIT
+Malaviya NIT Jaipur,Mettalargical & Material . (4),17393.0,18921.0,Female,NIT
+Maulana Azad NIT Bhopal,Mettalargical & Material . (4),21487.0,21953.0,Female,NIT
+NIT Durgapur,Mettalargical & Material . (4),21626.0,21626.0,Female,NIT
+"NIT, Jamshedpur",Mettalargical & Material . (4),20448.0,23748.0,Female,NIT
+NIT Raipur,Mettalargical & Material . (4),23838.0,24005.0,Female,NIT
+NIT Patna (HS/OBC),Mettalargical & Material . (4),24835.0,24835.0,Female,NIT
+"NIT, Andhra Pradesh",Mettalargical & Material . (4),23195.0,23195.0,Female,NIT
+"NIT, Srinagar",Mettalargical & Material . (4),18173.0,18928.0,Female,NIT
+"NIT, Kurukshetra",Mechatronics & Mech) Automation (4),11560.0,11575.0,Female,NIT
+NIT Patna (HS/OBC),Mechatronics & Mech) Automation (4),19012.0,19012.0,Female,NIT
+"NIT, Rourkela",Industrial Design. (4),13738.0,13738.0,Female,NIT
+Maulana Azad NIT Bhopal,Computatio & Mechanics (5),14488.0,14488.0,Female,NIT
+NIT Calicut,Maths & Computing (5),4707.0,4707.0,Female,NIT
+NIT Patna (HS/OBC),Maths & Computing (5),17111.0,17111.0,Female,NIT
+"NIT, Nagaland",Maths & Computing (5),18381.0,19734.0,Female,NIT
+NIT Calicut,Energy Engg & EV (4),8993.0,8993.0,Female,NIT
+Maulana Azad NIT Bhopal,Energy Engg & EV (4),14749.0,14749.0,Female,NIT
+"NIT, Kurukshetra",Energy Engg & EV (4),20322.0,20322.0,Female,NIT
+"NIT, Rourkela",Engg. Phy. (4),12241.0,12241.0,Female,NIT
+NIT Calicut,Engg. Phy. (4),13854.0,13854.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Engg. Phy. (4),16700.0,16700.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,Engg. Phy. (4),19955.0,19955.0,Female,NIT
+NIT Hamirpur,Engg. Phy. (4),20375.0,20375.0,Female,NIT
+"NIT, Tiruchirappalli",Industri & Production (4),10078.0,12582.0,Female,NIT
+NIT Calicut,Industri & Production (4),12615.0,13791.0,Female,NIT
+Sardar Vallabhbhai NIT Surat,Industri & Production (4),21762.0,21762.0,Female,NIT
+"NIT, Kurukshetra",Industri & Production (4),20010.0,20010.0,Female,NIT
+"NIT, Jamshedpur",Industri & Production (4),19695.0,19695.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Industri & Production (4),21703.0,22173.0,Female,NIT
+"NIT, Agartalla",Industri & Production (4),25401.0,25740.0,Female,NIT
+"NIT, Kurukshetra",Instrumentation & control / ind. internat (4),12843.0,12843.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Instrumentation & control / ind. internat (4),14028.0,17410.0,Female,NIT
+"NIT, Warangal",Bio Tech Engg (4),11059.0,13322.0,Female,NIT
+"NIT, Rourkela",Bio Tech Engg (4),14812.0,14812.0,Female,NIT
+Motilal Nehru NIT Allahabad,Bio Tech Engg (4),15779.0,15779.0,Female,NIT
+NIT Calicut,Bio Tech Engg (4),15491.0,15491.0,Female,NIT
+NIT Durgapur,Bio Tech Engg (4),20766.0,21083.0,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Bio Tech Engg (4),21968.0,22131.0,Female,NIT
+NIT Raipur,Bio Tech Engg (4),24615.0,25477.0,Female,NIT
+"NIT, Andhra Pradesh",Bio Tech Engg (4),23313.0,23313.0,Female,NIT
+NIT Arunachal Pradesh,Bio Tech Engg (4),19859.0,19859.0,Female,NIT
+"NIT, Agartalla",Bio Tech Engg (4),26345.0,26500.0,Female,NIT
+"NIT, Kurukshetra",VLSI (ECE) & Design (4),11150.0,11150.0,Female,NIT
+NIT Patna (HS/OBC),Mechanical Engg (5),24664.0,24664.0,Female,NIT
+"NIT, Rourkela",Mettalurgi & Material (5),11873.0,11889.0,Female,NIT
+"NIT, Warangal",Physics (5),15422.0,15422.0,Female,NIT
+"NIT, Warangal",Maths (5),19393.0,19393.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Food Processing/ bio Chemical (4),18900.0,18900.0,Female,NIT
+"NIT, Tiruchirappalli",Architecture (5),84.0,84.0,Female,NIT
+"NIT, Rourkela",Architecture (5),268.0,268.0,Female,NIT
+NIT Calicut,Architecture (5),155.0,231.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Architecture (5),233.0,261.0,Female,NIT
+Malaviya NIT Jaipur,Architecture (5),217.0,346.0,Female,NIT
+Maulana Azad NIT Bhopal,Architecture (5),282.0,333.0,Female,NIT
+"NIT, Kurukshetra",Architecture (5),466.0,466.0,Female,NIT
+NIT Hamirpur,Architecture (5),296.0,388.0,Female,NIT
+NIT Raipur,Architecture (5),305.0,305.0,Female,NIT
+NIT Patna (HS/OBC),Architecture (5),902.0,902.0,Female,NIT
+Maulana Azad NIT Bhopal,Planning (5),284.0,300.0,Female,NIT
+"NIT, Rourkela",Chemical/ Chemistry (5),,,Female,NIT
+NIT Durgapur,Chemical/ Chemistry (5),,,Female,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Textile (4),22433.0,24081.0,Female,NIT
+"NIT, Rourkela",Bio medical Engg (4),10896.0,10896.0,Female,NIT
+"NIT, Rourkela",Ceramic Engg (4),15912.0,15912.0,Female,NIT
+"NIT, Rourkela",Mining Engg (4),19965.0,19965.0,Female,NIT
+"Visvesvaraya NIT, Nagpur",Mining Engg (4),20045.0,21855.0,Female,NIT
+"NIT, Rourkela",Life Sci. (5),24365.0,24365.0,Female,NIT
+"NIT, Tiruchirappalli",CSE (4),266.0,459.0,Male,NIT
+"NIT Karnataka, Surathkal",CSE (4),516.0,678.0,Male,NIT
+"NIT, Warangal",CSE (4),491.0,797.0,Male,NIT
+"NIT, Rourkela",CSE (4),937.0,1231.0,Male,NIT
+Motilal Nehru NIT Allahabad,CSE (4),1204.0,1804.0,Male,NIT
+NIT Calicut,CSE (4),1265.0,1852.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",CSE (4),2098.0,2567.0,Male,NIT
+Malaviya NIT Jaipur,CSE (4),1466.0,2215.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,CSE (4),2549.0,3561.0,Male,NIT
+Maulana Azad NIT Bhopal,CSE (4),2729.0,3790.0,Male,NIT
+NIT Durgapur,CSE (4),3258.0,4152.0,Male,NIT
+"NIT, Kurukshetra",CSE (4),2329.0,3176.0,Male,NIT
+"NIT, Jamshedpur",CSE (4),2674.0,3216.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",CSE (4),3859.0,4615.0,Male,NIT
+NIT Hamirpur,CSE (4),3747.0,4846.0,Male,NIT
+NIT Goa,CSE (4),4842.0,5730.0,Male,NIT
+NIT Delhi,CSE (4),2225.0,3225.0,Male,NIT
+NIT Raipur,CSE (4),4457.0,5285.0,Male,NIT
+"NIT, Shilchar",CSE (4),3793.0,4864.0,Male,NIT
+NIT Patna (HS/OBC),CSE (4),4991.0,5941.0,Male,NIT
+"NIT, Andhra Pradesh",CSE (4),6537.0,7358.0,Male,NIT
+"NIT, Uttarakhand",CSE (4),6326.0,7402.0,Male,NIT
+NIT Meghalaya,CSE (4),6367.0,7313.0,Male,NIT
+NIT Sikkim,CSE (4),8238.0,8827.0,Male,NIT
+NIT Arunachal Pradesh,CSE (4),9443.0,9908.0,Male,NIT
+"IIEST,Shibpur",CSE (4),5381.0,5990.0,Male,NIT
+"NIT, Manipur",CSE (4),9699.0,11948.0,Male,NIT
+"NIT, Srinagar",CSE (4),7134.0,8325.0,Male,NIT
+"NIT, Agartalla",CSE (4),6706.0,8440.0,Male,NIT
+"NIT, Mizoram",CSE (4),2.0,4.0,Male,NIT
+"NIT, Nagaland",CSE (4),2.0,4.0,Male,NIT
+"NIT Karnataka, Surathkal",AI (4),886.0,1142.0,Male,NIT
+"NIT, Warangal",AI (4),855.0,993.0,Male,NIT
+"NIT, Rourkela",AI (4),1119.0,1531.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",AI (4),2598.0,3081.0,Male,NIT
+Malaviya NIT Jaipur,AI (4),2255.0,2512.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,AI (4),3822.0,4385.0,Male,NIT
+"NIT, Kurukshetra",AI (4),3535.0,3852.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",AI (4),4198.0,4564.0,Male,NIT
+NIT Delhi,AI (4),2930.0,3040.0,Male,NIT
+NIT Patna (HS/OBC),AI (4),6066.0,6806.0,Male,NIT
+NIT Sikkim,AI (4),8828.0,9296.0,Male,NIT
+"NIT, Warangal",Maths & comp. (4),874.0,1284.0,Male,NIT
+Motilal Nehru NIT Allahabad,Maths & comp. (4),2205.0,2289.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",Maths & comp. (4),3438.0,3719.0,Male,NIT
+Malaviya NIT Jaipur,Maths & comp. (4),2446.0,3169.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Maths & comp. (4),3844.0,4151.0,Male,NIT
+NIT Durgapur,Maths & comp. (4),4155.0,4940.0,Male,NIT
+"NIT, Kurukshetra",Maths & comp. (4),3513.0,4034.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Maths & comp. (4),5386.0,5803.0,Male,NIT
+NIT Hamirpur,Maths & comp. (4),4933.0,6003.0,Male,NIT
+"NIT Karnataka, Surathkal",IT (4),808.0,933.0,Male,NIT
+"NIT, Kurukshetra",IT (4),3273.0,3711.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",IT (4),4767.0,5244.0,Male,NIT
+NIT Raipur,IT (4),5073.0,6230.0,Male,NIT
+"NIT Karnataka, Surathkal",Data Sci./ Engg & Comp Mech (4),1063.0,1307.0,Male,NIT
+Motilal Nehru NIT Allahabad,Data Sci./ Engg & Comp Mech (4),3971.0,4879.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,CSE/ AI (5),4576.0,5668.0,Male,NIT
+"NIT, Kurukshetra",CSE/ AI (5),2851.0,3330.0,Male,NIT
+NIT Hamirpur,CSE/ AI (5),5292.0,5707.0,Male,NIT
+NIT Patna (HS/OBC),CSE/ AI (5),7882.0,8153.0,Male,NIT
+NIT Patna (HS/OBC),CSE & Data Sc. (5),7438.0,7438.0,Male,NIT
+Maulana Azad NIT Bhopal,Maths & Data Sc (5),5560.0,6008.0,Male,NIT
+"NIT, Warangal",Electronics & VLSI (4),1722.0,1958.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",Electronics & VLSI (4),3865.0,4453.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Electronics & VLSI (4),5740.0,6140.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Electronics & VLSI (4),5974.0,6457.0,Male,NIT
+NIT Patna (HS/OBC),Electronics & VLSI (4),8943.0,9836.0,Male,NIT
+"NIT, Tiruchirappalli",ECE (4),770.0,1094.0,Male,NIT
+"NIT Karnataka, Surathkal",ECE (4),1121.0,1459.0,Male,NIT
+"NIT, Warangal",ECE (4),1467.0,1710.0,Male,NIT
+"NIT, Rourkela",ECE (4),1345.0,2164.0,Male,NIT
+Motilal Nehru NIT Allahabad,ECE (4),2142.0,3238.0,Male,NIT
+NIT Calicut,ECE (4),2172.0,2700.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",ECE (4),3301.0,4206.0,Male,NIT
+Malaviya NIT Jaipur,ECE (4),2913.0,3935.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,ECE (4),4588.0,5411.0,Male,NIT
+Maulana Azad NIT Bhopal,ECE (4),3958.0,5522.0,Male,NIT
+NIT Durgapur,ECE (4),4380.0,5174.0,Male,NIT
+"NIT, Kurukshetra",ECE (4),3772.0,4748.0,Male,NIT
+"NIT, Jamshedpur",ECE (4),3389.0,4730.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",ECE (4),5254.0,5931.0,Male,NIT
+NIT Hamirpur,ECE (4),6016.0,6725.0,Male,NIT
+NIT Goa,ECE (4),6684.0,7399.0,Male,NIT
+NIT Raipur,ECE (4),5870.0,7222.0,Male,NIT
+"NIT, Shilchar",ECE (4),5748.0,6508.0,Male,NIT
+NIT Patna (HS/OBC),ECE (4),7021.0,7904.0,Male,NIT
+"NIT, Andhra Pradesh",ECE (4),8287.0,9709.0,Male,NIT
+NIT Puducherry,ECE (4),,,Male,NIT
+"NIT, Uttarakhand",ECE (4),8003.0,8509.0,Male,NIT
+NIT Meghalaya,ECE (4),9155.0,9594.0,Male,NIT
+NIT Sikkim,ECE (4),10505.0,11076.0,Male,NIT
+NIT Arunachal Pradesh,ECE (4),12122.0,12571.0,Male,NIT
+"NIT, Manipur",ECE (4),21114.0,21114.0,Male,NIT
+"NIT, Srinagar",ECE (4),10428.0,11380.0,Male,NIT
+"NIT, Agartalla",ECE (4),11760.0,12840.0,Male,NIT
+"NIT, Tiruchirappalli",EEE (4),1535.0,2402.0,Male,NIT
+"NIT Karnataka, Surathkal",EEE (4),1779.0,2661.0,Male,NIT
+"NIT, Warangal",EEE (4),3371.0,3394.0,Male,NIT
+NIT Calicut,EEE (4),3071.0,4377.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",EEE (4),4503.0,5638.0,Male,NIT
+NIT Goa,EEE (4),8538.0,8852.0,Male,NIT
+"NIT, Andhra Pradesh",EEE (4),11045.0,12618.0,Male,NIT
+"NIT, Uttarakhand",EEE (4),10398.0,10939.0,Male,NIT
+NIT Meghalaya,EEE (4),1249.0,13601.0,Male,NIT
+NIT Sikkim,EEE (4),12715.0,12767.0,Male,NIT
+"NIT, Rourkela",Electrical (4),2982.0,4191.0,Male,NIT
+Motilal Nehru NIT Allahabad,Electrical (4),3530.0,4315.0,Male,NIT
+Malaviya NIT Jaipur,Electrical (4),4364.0,5233.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Electrical (4),5747.0,7195.0,Male,NIT
+Maulana Azad NIT Bhopal,Electrical (4),6164.0,7496.0,Male,NIT
+NIT Durgapur,Electrical (4),6056.0,7317.0,Male,NIT
+"NIT, Kurukshetra",Electrical (4),5598.0,6560.0,Male,NIT
+"NIT, Jamshedpur",Electrical (4),4876.0,6205.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Electrical (4),6783.0,7381.0,Male,NIT
+NIT Hamirpur,Electrical (4),7411.0,8707.0,Male,NIT
+NIT Delhi,Electrical (4),4913.0,5883.0,Male,NIT
+NIT Raipur,Electrical (4),7985.0,9358.0,Male,NIT
+"NIT, Shilchar",Electrical (4),7639.0,8703.0,Male,NIT
+NIT Patna (HS/OBC),Electrical (4),9875.0,10380.0,Male,NIT
+NIT Arunachal Pradesh,Electrical (4),14104.0,14893.0,Male,NIT
+"NIT, Manipur",Electrical (4),15683.0,16019.0,Male,NIT
+"NIT, Agartalla",Electrical (4),11204.0,12672.0,Male,NIT
+"NIT, Shilchar",Elect & Instru. (4),6860.0,7790.0,Male,NIT
+"NIT, Agartalla",Elect & Instru. (4),11760.0,12840.0,Male,NIT
+NIT Patna (HS/OBC),Electrical (5),12246.0,12559.0,Male,NIT
+NIT Hamirpur,ECE (5),7077.0,7547.0,Male,NIT
+NIT Delhi,Aerospace Engg (4),4247.0,5026.0,Male,NIT
+"NIT, Tiruchirappalli",Chemical engg. (4),3889.0,4711.0,Male,NIT
+"NIT Karnataka, Surathkal",Chemical engg. (4),5409.0,6059.0,Male,NIT
+"NIT, Warangal",Chemical engg. (4),6069.0,6960.0,Male,NIT
+"NIT, Rourkela",Chemical engg. (4),6164.0,6984.0,Male,NIT
+Motilal Nehru NIT Allahabad,Chemical engg. (4),7428.0,8591.0,Male,NIT
+NIT Calicut,Chemical engg. (4),6994.0,8980.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",Chemical engg. (4),12605.0,13799.0,Male,NIT
+Malaviya NIT Jaipur,Chemical engg. (4),8735.0,9960.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Chemical engg. (4),11086.0,12593.0,Male,NIT
+Maulana Azad NIT Bhopal,Chemical engg. (4),11685.0,12678.0,Male,NIT
+NIT Durgapur,Chemical engg. (4),11543.0,12701.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Chemical engg. (4),11607.0,12738.0,Male,NIT
+NIT Hamirpur,Chemical engg. (4),12839.0,13525.0,Male,NIT
+NIT Raipur,Chemical engg. (4),12939.0,14172.0,Male,NIT
+NIT Patna (HS/OBC),Chemical engg. (4),17445.0,18688.0,Male,NIT
+"NIT, Andhra Pradesh",Chemical engg. (4),14493.0,14826.0,Male,NIT
+"NIT, Agartalla",Chemical engg. (4),17212.0,18696.0,Male,NIT
+"NIT, Tiruchirappalli",Mech. Engg (4),2149.0,3769.0,Male,NIT
+"NIT Karnataka, Surathkal",Mech. Engg (4),3820.0,4898.0,Male,NIT
+"NIT, Warangal",Mech. Engg (4),3815.0,5234.0,Male,NIT
+"NIT, Rourkela",Mech. Engg (4),4849.0,5569.0,Male,NIT
+Motilal Nehru NIT Allahabad,Mech. Engg (4),6607.0,7370.0,Male,NIT
+NIT Calicut,Mech. Engg (4),5242.0,6529.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",Mech. Engg (4),7329.0,7928.0,Male,NIT
+Malaviya NIT Jaipur,Mech. Engg (4),4988.0,7857.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Mech. Engg (4),8116.0,10372.0,Male,NIT
+Maulana Azad NIT Bhopal,Mech. Engg (4),9102.0,10513.0,Male,NIT
+NIT Durgapur,Mech. Engg (4),8965.0,10422.0,Male,NIT
+"NIT, Kurukshetra",Mech. Engg (4),8190.0,9370.0,Male,NIT
+"NIT, Jamshedpur",Mech. Engg (4),8664.0,10335.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Mech. Engg (4),9537.0,10844.0,Male,NIT
+NIT Hamirpur,Mech. Engg (4),9698.0,11407.0,Male,NIT
+NIT Goa,Mech. Engg (4),10992.0,11598.0,Male,NIT
+NIT Delhi,Mech. Engg (4),6210.0,77777.0,Male,NIT
+NIT Raipur,Mech. Engg (4),10941.0,12373.0,Male,NIT
+"NIT, Shilchar",Mech. Engg (4),10610.0,12050.0,Male,NIT
+NIT Patna (HS/OBC),Mech. Engg (4),12776.0,13766.0,Male,NIT
+"NIT, Andhra Pradesh",Mech. Engg (4),13308.0,14390.0,Male,NIT
+NIT Meghalaya,Mech. Engg (4),14433.0,14453.0,Male,NIT
+NIT Sikkim,Mech. Engg (4),14638.0,15295.0,Male,NIT
+NIT Arunachal Pradesh,Mech. Engg (4),15155.0,16768.0,Male,NIT
+"NIT, Manipur",Mech. Engg (4),10171.0,17549.0,Male,NIT
+"NIT, Agartalla",Mech. Engg (4),13850.0,15853.0,Male,NIT
+"NIT, Tiruchirappalli",Civil Engg. (4),5535.0,6756.0,Male,NIT
+"NIT Karnataka, Surathkal",Civil Engg. (4),6764.0,8043.0,Male,NIT
+"NIT, Warangal",Civil Engg. (4),7972.0,8881.0,Male,NIT
+"NIT, Rourkela",Civil Engg. (4),7641.0,8997.0,Male,NIT
+Motilal Nehru NIT Allahabad,Civil Engg. (4),9794.0,11370.0,Male,NIT
+NIT Calicut,Civil Engg. (4),9939.0,11334.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",Civil Engg. (4),11789.0,13002.0,Male,NIT
+Malaviya NIT Jaipur,Civil Engg. (4),9813.0,11838.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Civil Engg. (4),13270.0,13976.0,Male,NIT
+Maulana Azad NIT Bhopal,Civil Engg. (4),13454.0,14570.0,Male,NIT
+NIT Durgapur,Civil Engg. (4),13192.0,13981.0,Male,NIT
+"NIT, Kurukshetra",Civil Engg. (4),11829.0,12962.0,Male,NIT
+"NIT, Jamshedpur",Civil Engg. (4),13314.0,14049.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Civil Engg. (4),13721.0,14809.0,Male,NIT
+NIT Hamirpur,Civil Engg. (4),14838.0,16107.0,Male,NIT
+NIT Goa,Civil Engg. (4),13892.0,15632.0,Male,NIT
+NIT Delhi,Civil Engg. (4),9445.0,9983.0,Male,NIT
+NIT Raipur,Civil Engg. (4),14934.0,16811.0,Male,NIT
+"NIT, Shilchar",Civil Engg. (4),15240.0,16874.0,Male,NIT
+NIT Patna (HS/OBC),Civil Engg. (4),15468.0,16540.0,Male,NIT
+"NIT, Andhra Pradesh",Civil Engg. (4),16777.0,17662.0,Male,NIT
+"NIT, Uttarakhand",Civil Engg. (4),15999.0,17032.0,Male,NIT
+NIT Meghalaya,Civil Engg. (4),26785.0,26785.0,Male,NIT
+NIT Sikkim,Civil Engg. (4),17975.0,18159.0,Male,NIT
+NIT Arunachal Pradesh,Civil Engg. (4),18313.0,19095.0,Male,NIT
+"NIT, Manipur",Civil Engg. (4),18601.0,19259.0,Male,NIT
+"NIT, Agartalla",Civil Engg. (4),18022.0,19898.0,Male,NIT
+"NIT, Tiruchirappalli",Mettalargical & Material . (4),6461.0,7711.0,Male,NIT
+"NIT Karnataka, Surathkal",Mettalargical & Material . (4),7255.0,7914.0,Male,NIT
+"NIT, Warangal",Mettalargical & Material . (4),8941.0,9244.0,Male,NIT
+"NIT, Rourkela",Mettalargical & Material . (4),7988.0,9324.0,Male,NIT
+Motilal Nehru NIT Allahabad,Mettalargical & Material . (4),11930.0,12994.0,Male,NIT
+NIT Calicut,Mettalargical & Material . (4),9065.0,10337.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",Mettalargical & Material . (4),12364.0,14298.0,Male,NIT
+Malaviya NIT Jaipur,Mettalargical & Material . (4),11708.0,13222.0,Male,NIT
+Maulana Azad NIT Bhopal,Mettalargical & Material . (4),14383.0,16433.0,Male,NIT
+NIT Durgapur,Mettalargical & Material . (4),14363.0,15921.0,Male,NIT
+"NIT, Jamshedpur",Mettalargical & Material . (4),13457.0,15724.0,Male,NIT
+NIT Raipur,Mettalargical & Material . (4),16157.0,18114.0,Male,NIT
+NIT Patna (HS/OBC),Mettalargical & Material . (4),19521.0,20511.0,Male,NIT
+"NIT, Andhra Pradesh",Mettalargical & Material . (4),16560.0,18184.0,Male,NIT
+"NIT, Srinagar",Mettalargical & Material . (4),18173.0,18928.0,Male,NIT
+"NIT, Kurukshetra",Mechatronics & Mech) Automation (4),5231.0,5828.0,Male,NIT
+NIT Patna (HS/OBC),Mechatronics & Mech) Automation (4),11764.0,12814.0,Male,NIT
+"NIT, Rourkela",Industrial Design. (4),9400.0,9604.0,Male,NIT
+Maulana Azad NIT Bhopal,Computatio & Mechanics (5),7755.0,8918.0,Male,NIT
+NIT Calicut,Maths & Computing (5),3209.0,3331.0,Male,NIT
+NIT Patna (HS/OBC),Maths & Computing (5),7814.0,8639.0,Male,NIT
+"NIT, Agartalla",Maths & Computing (5),13495.0,16937.0,Male,NIT
+"NIT, Nagaland",Maths & Computing (5),18381.0,19734.0,Male,NIT
+NIT Calicut,Energy Engg & EV (4),8253.0,9380.0,Male,NIT
+Maulana Azad NIT Bhopal,Energy Engg & EV (4),8160.0,9495.0,Male,NIT
+"NIT, Kurukshetra",Energy Engg & EV (4),12918.0,15197.0,Male,NIT
+"NIT, Rourkela",Engg. Phy. (4),5499.0,6904.0,Male,NIT
+NIT Calicut,Engg. Phy. (4),2815.0,6107.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",Engg. Phy. (4),7170.0,9316.0,Male,NIT
+Malaviya NIT Jaipur,Engg. Phy. (4),5556.0,7580.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Engg. Phy. (4),8903.0,10137.0,Male,NIT
+NIT Hamirpur,Engg. Phy. (4),11216.0,12744.0,Male,NIT
+"NIT, Agartalla",Engg. Phy. (4),17075.0,20424.0,Male,NIT
+"NIT, Tiruchirappalli",Industri & Production/ Ind Chem (4),5794.0,7219.0,Male,NIT
+NIT Calicut,Industri & Production/ Ind Chem (4),8342.0,10136.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Industri & Production/ Ind Chem (4),14684.0,15578.0,Male,NIT
+"NIT, Kurukshetra",Industri & Production/ Ind Chem (4),11834.0,14635.0,Male,NIT
+"NIT, Jamshedpur",Industri & Production/ Ind Chem (4),12457.0,15379.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Industri & Production/ Ind Chem (4),15566.0,16048.0,Male,NIT
+"NIT, Agartalla",Industri & Production/ Ind Chem (4),19845.0,21452.0,Male,NIT
+"NIT, Kurukshetra",Instrumentation & control / ind. internet (4),5546.0,5975.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Instrumentation & control / ind. internet (4),8205.0,9725.0,Male,NIT
+"NIT, Warangal",Bio Tech Engg (4),9851.0,12316.0,Male,NIT
+"NIT, Rourkela",Bio Tech Engg (4),9507.0,10991.0,Male,NIT
+Motilal Nehru NIT Allahabad,Bio Tech Engg (4),13259.0,14218.0,Male,NIT
+NIT Calicut,Bio Tech Engg (4),11615.0,13028.0,Male,NIT
+NIT Durgapur,Bio Tech Engg (4),16594.0,18282.0,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Bio Tech Engg (4),17413.0,18148.0,Male,NIT
+NIT Raipur,Bio Tech Engg (4),19131.0,20573.0,Male,NIT
+"NIT, Andhra Pradesh",Bio Tech Engg (4),18020.0,18887.0,Male,NIT
+NIT Arunachal Pradesh,Bio Tech Engg (4),19859.0,19859.0,Male,NIT
+"NIT, Agartalla",Bio Tech Engg (4),20124.0,21092.0,Male,NIT
+"NIT, Kurukshetra",VLSI (ECE) & Design (4),5215.0,6172.0,Male,NIT
+NIT Delhi,VLSI (ECE) & Design (4),4839.0,5030.0,Male,NIT
+"NIT, Kurukshetra",Mechanical Engg (5),9439.0,9439.0,Male,NIT
+NIT Patna (HS/OBC),Mechanical Engg (5),14971.0,15748.0,Male,NIT
+"NIT, Kurukshetra",Civil Engg (5),14100.0,14932.0,Male,NIT
+NIT Patna (HS/OBC),Civil Engg (5),16665.0,16665.0,Male,NIT
+"NIT, Warangal",Mettalurgi & Material (5),9527.0,9527.0,Male,NIT
+"NIT, Rourkela",Mettalurgi & Material (5),11873.0,11889.0,Male,NIT
+"NIT, Warangal",Physics (5),8226.0,10346.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Physics (5),13340.0,19483.0,Male,NIT
+"NIT, Warangal",Maths (5),6763.0,6763.0,Male,NIT
+Sardar Vallabhbhai NIT Surat,Maths (5),14835.0,17956.0,Male,NIT
+"NIT, Rourkela",Food Processing/ bio Chemical (4),12059.0,12664.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",Food Processing/ bio Chemical (4),12605.0,13799.0,Male,NIT
+"NIT, Tiruchirappalli",Architecture (5),94.0,123.0,Male,NIT
+"NIT, Rourkela",Architecture (5),172.0,239.0,Male,NIT
+NIT Calicut,Architecture (5),79.0,272.0,Male,NIT
+"Visvesvaraya NIT, Nagpur",Architecture (5),213.0,313.0,Male,NIT
+Malaviya NIT Jaipur,Architecture (5),347.0,383.0,Male,NIT
+Maulana Azad NIT Bhopal,Architecture (5),334.0,401.0,Male,NIT
+"NIT, Kurukshetra",Architecture (5),293.0,431.0,Male,NIT
+NIT Hamirpur,Architecture (5),366.0,456.0,Male,NIT
+NIT Raipur,Architecture (5),310.0,402.0,Male,NIT
+NIT Patna (HS/OBC),Architecture (5),744.0,1015.0,Male,NIT
+Maulana Azad NIT Bhopal,Planning (5),228.0,348.0,Male,NIT
+"NIT, Warangal",Chemical/ Chemistry (5),8393.0,8393.0,Male,NIT
+"NIT, Rourkela",Chemical/ Chemistry (5),,,Male,NIT
+Sardar Vallabhbhai NIT Surat,Chemical/ Chemistry (5),18971.0,20355.0,Male,NIT
+NIT Durgapur,Chemical/ Chemistry (5),,,Male,NIT
+"Dr. B R Ambedkar NIT, Jalandhar",Textile (4),17495.0,18876.0,Male,NIT
+"NIT, Rourkela",Mining Engg (4),,,Male,NIT
+"NIT, Rourkela",Ceramic Engg (5),14139.0,14396.0,Male,NIT
+"NIT, Rourkela",Life Sci. (5),18066.0,19556.0,Male,NIT

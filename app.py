@@ -1,65 +1,77 @@
 import streamlit as st
 import pandas as pd
 
-# 1. Page Configuration
-st.set_page_config(page_title="IIT College Predictor", layout="wide")
+st.set_page_config(page_title="College Predictor 2026", layout="wide")
 
-# 2. Load the cleaned data
-# @st.cache_data ensures the CSV is only loaded once into memory, making the app fast
-# @st.cache_data
+# 1. Load the unified data
+# Remove the @st.cache_data decorator temporarily if you are still making changes to the CSV
+#@st.cache_data
 def load_data():
-    return pd.read_csv('cleaned_iit_cutoffs_2026.csv')
+    return pd.read_csv('cleaned_all_colleges_2026.csv')
 
 try:
     df = load_data()
 except FileNotFoundError:
-    st.error("Data file not found. Please ensure 'cleaned_iit_cutoffs_2026.csv' is in the same folder.")
+    st.error("Data file not found. Please ensure 'cleaned_all_colleges_2026.csv' is in the same folder.")
     st.stop()
 
-# 3. Sidebar for User Inputs
+# 2. Main Title
+st.title("🎓 College Predictor 2026")
+st.write("Find eligible colleges based on the 2026 OR-CR data.")
+
+# 3. Sidebar toggle for College Type
+st.sidebar.header("Select College Type")
+# Use a radio button to toggle between IIT (Advanced) and NIT (Mains OBC)
+college_type = st.sidebar.radio("Target Institution:", options=["IIT", "NIT"])
+
+# Filter the main dataframe based on the toggle selection immediately
+df_filtered_by_type = df[df['Type'] == college_type].copy()
+
+# 4. Dynamic Sidebar Inputs based on toggle
 st.sidebar.header("Your Details")
-user_rank = st.sidebar.number_input("Enter your Rank:", min_value=1, value=1500, step=1)
 
-# Get unique branches for the dropdown dynamically from the dataset
-available_branches = df['Branch'].unique().tolist()
+# Change the input label to make it clear which rank is needed
+if college_type == "IIT":
+    rank_label = "Enter your JEE Advanced Rank (CRL):"
+else:
+    rank_label = "Enter your JEE Mains Rank (OBC-NCL):"
 
-# Multiselect allows users to pick multiple branches in a specific order
+user_rank = st.sidebar.number_input(rank_label, min_value=1, value=1500, step=1)
+
+# Dynamically populate branches ONLY for the selected college type
+available_branches = df_filtered_by_type['Branch'].unique().tolist()
+
 selected_branches = st.sidebar.multiselect(
-    "Select Preferred Branches (in order of priority):",
+    f"Select Preferred {college_type} Branches (in order):",
     options=available_branches,
     help="The order in which you select branches will dictate the sorting order."
 )
 
-st.title("🎓 IIT College Predictor")
-st.write("Find eligible colleges based on the 2026 OR-CR data.")
-
-# 4. Filtering Logic
+# 5. Filtering and Sorting Logic
 def filter_and_sort_data(data, rank, branches):
-    # Filter to only show colleges where the closing rank is >= the user's rank
-    filtered_df = data[data['Closing_Rank'] >= rank]
+    # Filter by closing rank
+    filtered = data[data['Closing_Rank'] >= rank]
     
     if branches:
-        # Filter to only include the specific branches the user selected
-        filtered_df = filtered_df[filtered_df['Branch'].isin(branches)].copy()
+        # Filter by selected branches
+        filtered = filtered[filtered['Branch'].isin(branches)].copy()
         
-        # Sort by the exact priority order selected by the user
+        # Sort by user's branch priority
         branch_category = pd.CategoricalDtype(categories=branches, ordered=True)
-        filtered_df['Branch'] = filtered_df['Branch'].astype(branch_category)
-        
-        # Sort primarily by Branch priority, then by Closing Rank
-        filtered_df.sort_values(by=['Branch', 'Closing_Rank'], inplace=True)
+        filtered['Branch'] = filtered['Branch'].astype(branch_category)
+        filtered.sort_values(by=['Branch', 'Closing_Rank'], inplace=True)
     else:
-        # If no branches are selected, just show everything sorted by Closing Rank
-        filtered_df.sort_values(by=['Closing_Rank'], inplace=True)
+        # Sort by Closing Rank if no branches selected
+        filtered.sort_values(by=['Closing_Rank'], inplace=True)
         
-    return filtered_df.reset_index(drop=True)
+    return filtered.reset_index(drop=True)
 
-# 5. Displaying Data Separately for Male and Female using Tabs
+# 6. Display Data Separately for Male and Female using Tabs
+st.subheader(f"Eligible {college_type}s for Rank: {user_rank}")
 tab_male, tab_female = st.tabs(["Male Candidates", "Female Candidates"])
 
 with tab_male:
-    st.subheader("Eligible Colleges for Male Candidates")
-    male_data = df[df['Gender'] == 'Male']
+    male_data = df_filtered_by_type[df_filtered_by_type['Gender'] == 'Male']
     result_male = filter_and_sort_data(male_data, user_rank, selected_branches)
     
     if result_male.empty:
@@ -68,8 +80,7 @@ with tab_male:
         st.dataframe(result_male[['Institute', 'Branch', 'Opening_Rank', 'Closing_Rank']], use_container_width=True)
 
 with tab_female:
-    st.subheader("Eligible Colleges for Female Candidates")
-    female_data = df[df['Gender'] == 'Female']
+    female_data = df_filtered_by_type[df_filtered_by_type['Gender'] == 'Female']
     result_female = filter_and_sort_data(female_data, user_rank, selected_branches)
     
     if result_female.empty:
